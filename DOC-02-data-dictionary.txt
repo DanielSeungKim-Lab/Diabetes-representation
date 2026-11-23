@@ -1,0 +1,97 @@
+Data dictionary
+
+Blank cells mean not applicable or not reported unless stated otherwise.
+
+DATA-01-trials.csv
+One row per trial in either analytic cohort (369 trials).
+  nct_id                ClinicalTrials.gov identifier
+  in_race_cohort        1 if in the race cohort (355 trials), else 0
+  in_ethnicity_cohort   1 if in the ethnicity cohort (223 trials), else 0
+  race_order            Bootstrap row order within the race cohort (1 to 355)
+  ethnicity_order       Bootstrap row order within the ethnicity cohort (1 to 223)
+  enrollment            Registry-reported enrollment
+  lead_sponsor_class    Registry lead sponsor class: INDUSTRY, OTHER, FED, NETWORK, INDIV
+  site_countries        Countries with registered sites, separated by semicolons;
+                        empty if no locations were posted
+  n_white, n_black, n_asian, n_aian, n_nhopi, n_other_multiple
+                        Participants in each harmonized race category: White; Black or
+                        African American; Asian; American Indian or Alaska Native; Native
+                        Hawaiian or Other Pacific Islander; other or multiple race
+  n_unknown_race        Participants with unknown or unreported race
+  race_scheme           Source of race counts: OMB race (the registry's dedicated race
+                        measure) or Free text (a customized race or race-or-ethnicity table)
+  n_hispanic, n_not_hispanic, n_unknown_ethnicity
+                        Participants by Hispanic or Latinx ethnicity
+
+DATA-02-denominators.csv
+US diabetes case shares used as benchmarks.
+  stratification   race, ethnicity, or race_ethnicity (the five NHANES survey groups)
+  scenario         primary; definition_hba1c_only; definition_self_report_only;
+                   definition_fasting_glucose_composite; definition_type1_excluded;
+                   primary__race_frame_hispanic_as_white; primary__race_frame_nonhispanic_only
+  category         Racial or ethnic group
+  share            Share of US adult diabetes cases (sums to 1 within stratification and scenario)
+  relse_pct        Relative standard error of the share, in percent; blank for the allocated
+                   six-category race shares
+
+DATA-03-nhanes-person-level.parquet
+NHANES 2017 to March 2020 prepandemic records for adults aged 20 years and older (9,232 rows).
+Variables keep their NHANES names; see the CDC NHANES documentation.
+  SEQN       Respondent identifier
+  RIDAGEYR   Age in years
+  RIDRETH3   Race and Hispanic origin
+  WTMECPRP   Examination weight
+  SDMVSTRA   Design stratum
+  SDMVPSU    Design primary sampling unit
+  LBXGH      Glycated hemoglobin (%)
+  DIQ010     Ever told by a doctor you have diabetes
+  DIQ050     Now taking insulin
+  DIQ070     Now taking diabetic pills
+CODE-02 adds DID040 (age at diagnosis) and the fasting glucose variables (LBXGLU, WTSAFPRP)
+from the public P_DIQ and P_GLU files.
+
+DATA-04-acs-adult20-frame.json
+American Community Survey 2019 to 2023 five-year national counts: adults aged 20 years and
+older by sex from tables B01001A to B01001I, and all-age counts from table B03002. Used by
+CODE-02.
+
+DATA-05-race-label-dictionary.csv
+Every registry race label in the race cohort and its harmonized category.
+  scheme                Dedicated race table or combined race-or-ethnicity table
+  registry_label        Label as posted
+  harmonized_category   Category assigned; labels marked "coverage only" count toward
+                        reporting coverage but not toward race shares
+  n_trials              Trials using the label
+  participants          Participants under the label
+
+DATA-06-trial-characteristics.csv
+One row per trial (369 trials).
+  nct_id              ClinicalTrials.gov identifier
+  phase               Registry phase (PHASE3, PHASE4, or PHASE2;PHASE3)
+  start_date          Start date (year and month)
+  start_year          Start year
+  minimum_age         Minimum eligible age as posted
+  minimum_age_years   Minimum eligible age in years
+  maximum_age         Maximum eligible age as posted
+  std_ages            Registry age groups (CHILD, ADULT, OLDER_ADULT)
+
+DATA-07-us-only-facilities.csv
+One row per facility record of the 81 US-only trials (987 records).
+  nct_id, facility, city, state, country
+  location_status     Site recruitment status as posted (blank for all records)
+
+DATA-08-acs-state-population.csv
+American Community Survey 2019 to 2023 five-year counts, table B02001, all ages, for the 50
+states and the District of Columbia.
+  state, state_fips, total_pop, black_alone, asian_alone
+
+DATA-09-screening-disposition.csv
+One row per screened record with a baseline module (612 records).
+  nct_id              ClinicalTrials.gov identifier
+  step                Selection step at which the record left the flow (for example
+                      "2 race measure"), or "6 included"
+  disposition         Reason for exclusion, or inclusion in the race cohort
+  phase, start_date, enrollment, lead_sponsor_class
+                      As in DATA-01 and DATA-06
+  in_race_cohort, in_ethnicity_cohort
+                      As in DATA-01

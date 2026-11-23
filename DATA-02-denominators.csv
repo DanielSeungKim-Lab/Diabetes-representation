@@ -1,0 +1,58 @@
+stratification,scenario,category,share,relse_pct
+ethnicity,definition_fasting_glucose_composite,Hispanic or Latino,0.1921769805101036,9.5
+ethnicity,definition_fasting_glucose_composite,Not Hispanic or Latino,0.8078230194898963,2.26
+ethnicity,definition_hba1c_only,Hispanic or Latino,0.182582132117667,11.65
+ethnicity,definition_hba1c_only,Not Hispanic or Latino,0.817417867882333,2.6
+ethnicity,definition_self_report_only,Hispanic or Latino,0.1561544253594243,11.27
+ethnicity,definition_self_report_only,Not Hispanic or Latino,0.8438455746405757,2.09
+ethnicity,definition_type1_excluded,Hispanic or Latino,0.172513074310578,9.4
+ethnicity,definition_type1_excluded,Not Hispanic or Latino,0.8274869256894221,1.96
+ethnicity,primary,Hispanic or Latino,0.1713432093815852,9.63
+ethnicity,primary,Not Hispanic or Latino,0.8286567906184147,1.99
+race,definition_fasting_glucose_composite,American Indian or Alaska Native,0.0099405411622854,
+race,definition_fasting_glucose_composite,Asian,0.0687302421288134,
+race,definition_fasting_glucose_composite,Black or African American,0.1367178483437096,
+race,definition_fasting_glucose_composite,Native Hawaiian or Other Pacific Islander,0.0022217557329155,
+race,definition_fasting_glucose_composite,Other or multiple race,0.1751792616379156,
+race,definition_fasting_glucose_composite,White,0.6072103509943604,
+race,definition_hba1c_only,American Indian or Alaska Native,0.0102841800136264,
+race,definition_hba1c_only,Asian,0.0707717144532227,
+race,definition_hba1c_only,Black or African American,0.1426063514385911,
+race,definition_hba1c_only,Native Hawaiian or Other Pacific Islander,0.0023795968559162,
+race,definition_hba1c_only,Other or multiple race,0.1721222028691445,
+race,definition_hba1c_only,White,0.601835954369499,
+race,definition_self_report_only,American Indian or Alaska Native,0.0095891717791437,
+race,definition_self_report_only,Asian,0.0603802438390979,
+race,definition_self_report_only,Black or African American,0.1283510692387607,
+race,definition_self_report_only,Native Hawaiian or Other Pacific Islander,0.0022890920087914,
+race,definition_self_report_only,Other or multiple race,0.152583546418896,
+race,definition_self_report_only,White,0.6468068767153103,
+race,definition_type1_excluded,American Indian or Alaska Native,0.0099079779567459,
+race,definition_type1_excluded,Asian,0.069549931118491,
+race,definition_type1_excluded,Black or African American,0.1387685058735669,
+race,definition_type1_excluded,Native Hawaiian or Other Pacific Islander,0.0023094676582087,
+race,definition_type1_excluded,Other or multiple race,0.1639233502814969,
+race,definition_type1_excluded,White,0.6155407671114904,
+race,primary,American Indian or Alaska Native,0.0097365169545577,
+race,primary,Asian,0.0677026263377828,
+race,primary,Black or African American,0.1353453501260822,
+race,primary,Native Hawaiian or Other Pacific Islander,0.0022604412004355,
+race,primary,Other or multiple race,0.1621054743532511,
+race,primary,White,0.6228495910278905,
+race,primary__race_frame_hispanic_as_white,American Indian or Alaska Native,0.0065187261380865,
+race,primary__race_frame_hispanic_as_white,Asian,0.0670287605833491,
+race,primary__race_frame_hispanic_as_white,Black or African American,0.1323588937662597,
+race,primary__race_frame_hispanic_as_white,Native Hawaiian or Other Pacific Islander,0.0020858813853157,
+race,primary__race_frame_hispanic_as_white,Other or multiple race,0.04415301461551,
+race,primary__race_frame_hispanic_as_white,White,0.7478547235114787,
+race,primary__race_frame_nonhispanic_only,American Indian or Alaska Native,0.0078666176538802,
+race,primary__race_frame_nonhispanic_only,Asian,0.0808884466309948,
+race,primary__race_frame_nonhispanic_only,Black or African American,0.1597270368924173,
+race,primary__race_frame_nonhispanic_only,Native Hawaiian or Other Pacific Islander,0.0025171837230212,
+race,primary__race_frame_nonhispanic_only,Other or multiple race,0.053282631742581,
+race,primary__race_frame_nonhispanic_only,White,0.6957180833571052,
+race_ethnicity,primary,Hispanic or Latino,0.1713432093815852,9.63
+race_ethnicity,primary,NH Asian,0.0670287605833491,16.24
+race_ethnicity,primary,NH Black,0.1323588937662597,14.96
+race_ethnicity,primary,NH Other or multiple,0.0527576221389123,12.2
+race_ethnicity,primary,NH White,0.5765115141298935,5.09

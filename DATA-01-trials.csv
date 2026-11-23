@@ -1,0 +1,370 @@
+nct_id,in_race_cohort,in_ethnicity_cohort,race_order,ethnicity_order,enrollment,lead_sponsor_class,site_countries,n_white,n_black,n_asian,n_aian,n_nhopi,n_other_multiple,n_unknown_race,race_scheme,n_hispanic,n_not_hispanic,n_unknown_ethnicity
+NCT01002339,1,0,1,,134.0,OTHER,Spain,128,0,0,0,0,0,0,OMB race,,,
+NCT01064687,1,1,2,1,978.0,INDUSTRY,Argentina;Mexico;Puerto Rico;United States,726,76,24,135,3,11,1,OMB race,331,644,1
+NCT01075282,1,1,3,2,810.0,INDUSTRY,Argentina;Australia;Belgium;Brazil;Canada;Croatia;Czechia;France;Greece;Hungary;India;Italy;Mexico;Poland;Romania;Slovakia;South Korea;Spain;Sweden;Taiwan,570,4,137,89,0,7,0,OMB race,291,516,0
+NCT01099618,1,0,4,,48.0,OTHER,United States,0,48,0,0,0,0,0,OMB race,,,
+NCT01107886,1,1,5,3,18206.0,INDUSTRY,Argentina;Australia;Brazil;Canada;Chile;China;Czechia;France;Germany;Hong Kong;Hungary;India;Israel;Italy;Mexico;Netherlands;Peru;Poland;Puerto Rico;Russia;South Africa;Spain;Sweden;Taiwan;Thailand;United Kingdom;United States,12407,568,1780,51,22,1526,138,OMB race,3541,12951,0
+NCT01123980,1,0,6,,521.0,INDUSTRY,China;Japan,0,0,521,0,0,0,0,OMB race,,,
+NCT01126580,1,1,7,4,807.0,INDUSTRY,Argentina;Brazil;Canada;Croatia;Czechia;Finland;France;Germany;India;Mexico;Poland;Puerto Rico;Romania;Slovakia;South Africa;South Korea;Spain;United Kingdom;United States,600,53,61,85,1,7,0,OMB race,272,535,0
+NCT01147250,1,1,8,5,6068.0,INDUSTRY,Argentina;Australia;Austria;Belarus;Belgium;Brazil;Bulgaria;Canada;Chile;China;Colombia;Denmark;Ecuador;Egypt;Estonia;Finland;France;Georgia;Germany;Guatemala;India;Israel;Italy;Japan;Latvia;Lithuania;Mexico;Netherlands;Norway;Panama;Peru;Philippines;Poland;Portugal;Romania;Russia;Serbia;South Africa;South Korea;Spain;Sweden;Switzerland;Taiwan;Tunisia;Turkey (Türkiye);Ukraine;United Arab Emirates;United Kingdom;United States,4576,221,771,0,0,500,0,OMB race,1768,4300,0
+NCT01181986,1,0,9,,76.0,FED,United States,65,11,0,0,0,0,0,OMB race,,,
+NCT01191268,1,1,10,6,884.0,INDUSTRY,Argentina;Australia;Belgium;Brazil;Canada;Denmark;Greece;Hungary;Mexico;Poland;Puerto Rico;Russia;Spain;Sweden;Taiwan;United States,697,85,35,46,1,20,0,OMB race,303,581,0
+NCT01196104,1,0,11,,39.0,INDUSTRY,United States,26,7,3,0,1,0,0,OMB race,,,
+NCT01215955,1,1,12,7,1117.0,INDUSTRY,Argentina;Austria;Brazil;Canada;Croatia;Denmark;France;Lithuania;Mexico;Poland;Puerto Rico;Romania;Russia;South Africa;United States,905,99,18,64,2,13,5,OMB race,382,662,62
+NCT01234649,1,1,13,9,153.0,OTHER,United States,125,28,0,0,0,0,0,OMB race,0,153,0
+NCT01243424,1,1,14,10,6103.0,INDUSTRY,Argentina;Australia;Belgium;Brazil;Bulgaria;Canada;Chile;Colombia;Czechia;Finland;France;Georgia;Germany;Greece;Hong Kong;Hungary;India;Ireland;Israel;Italy;Japan;Malaysia;Mexico;Netherlands;New Zealand;Norway;Peru;Philippines;Portugal;Romania;Russia;Serbia;Slovakia;South Africa;South Korea;Spain;Sweden;Switzerland;Taiwan;Tunisia;Ukraine;United Kingdom;United States,4407,324,1061,214,8,0,19,OMB race,1032,4982,19
+NCT01258075,1,0,15,,236.0,INDUSTRY,United States,117,87,7,1,1,20,3,OMB race,,,
+NCT01272232,1,1,16,11,846.0,INDUSTRY,France;Germany;India;Israel;Italy;Puerto Rico;South Africa;Spain;Sweden;Taiwan;Turkey (Türkiye);United Kingdom;United States,705,98,19,4,0,0,20,OMB race,87,756,3
+NCT01278160,1,0,17,,179.0,INDUSTRY,China,0,0,179,0,0,0,0,OMB race,,,
+NCT01293396,1,0,18,,20.0,OTHER,Austria,20,0,0,0,0,0,0,OMB race,,,
+NCT01374568,1,0,19,,6.0,OTHER,United States,1,4,0,0,0,0,0,OMB race,,,
+NCT01381926,1,0,20,,14.0,OTHER,United States,6,4,0,0,0,0,0,OMB race,,,
+NCT01394952,1,1,21,12,9901.0,INDUSTRY,Argentina;Australia;Brazil;Bulgaria;Canada;Chile;Colombia;Czechia;Germany;Hungary;Latvia;Lithuania;Mexico;New Zealand;Poland;Puerto Rico;Romania;Russia;South Africa;South Korea;Spain;Sweden;Taiwan;United Kingdom;United States,7498,677,434,1092,34,166,0,OMB race,124,802,8975
+NCT01406717,1,0,22,,360.0,INDUSTRY,India,0,0,338,0,0,0,0,OMB race,,,
+NCT01421459,1,1,23,13,759.0,INDUSTRY,Czechia;France;Germany;Greece;Hungary;Mexico;Poland;Puerto Rico;South Korea;Spain;Taiwan;United States,593,58,64,38,0,3,0,OMB race,210,500,46
+NCT01435616,1,1,24,15,1538.0,INDUSTRY,Argentina;Australia;Brazil;Canada;Finland;Germany;Greece;Hungary;Israel;Italy;Lithuania;Mexico;New Zealand;Poland;Puerto Rico;Romania;Russia;Slovakia;South Africa;Spain;Turkey (Türkiye);United Kingdom;United States,1344,102,37,39,5,11,0,OMB race,297,1003,238
+NCT01451398,1,1,25,16,353.0,INDUSTRY,Brazil;Russia;Ukraine;United States,306,38,3,2,0,0,4,OMB race,84,269,0
+NCT01468987,1,1,26,17,1369.0,INDUSTRY,Australia;Austria;Brazil;Croatia;Czechia;Denmark;Germany;Greece;Hungary;Israel;Italy;Japan;Lithuania;Mexico;Netherlands;Poland;Puerto Rico;Romania;Russia;Slovakia;Spain;Taiwan;Turkey (Türkiye);United Kingdom;United States,1200,92,55,4,4,14,0,OMB race,152,879,338
+NCT01474538,1,1,27,19,122.0,INDUSTRY,United States,107,10,2,1,0,2,0,OMB race,3,119,0
+NCT01485614,1,1,28,20,200.0,INDUSTRY,,104,11,30,15,0,39,0,OMB race,73,115,11
+NCT01486966,1,0,29,,58.0,INDUSTRY,China,0,0,58,0,0,0,0,OMB race,,,
+NCT01517412,1,1,30,23,451.0,INDUSTRY,Canada;Czechia;France;Germany;Poland;Romania;Russia;Spain;Ukraine;United States,422,12,17,0,0,0,0,OMB race,23,428,0
+NCT01541215,1,1,31,24,135.0,INDUSTRY,Australia;Austria;Belgium;Brazil;Canada;Croatia;Denmark;Egypt;France;Germany;Greece;Hungary;India;Israel;Italy;Lebanon;Malaysia;Mexico;Morocco;Netherlands;New Zealand;North Macedonia;Norway;Poland;Portugal;Puerto Rico;Romania;Russia;Serbia;Spain;Sweden;Taiwan;Thailand;Turkey (Türkiye);United Kingdom;United States,87,16,18,3,0,0,10,OMB race,39,95,0
+NCT01582451,1,1,32,27,466.0,INDUSTRY,Czechia;Germany;Greece;Israel;Puerto Rico;Romania;Russia;Spain;United States,428,26,6,2,1,1,2,OMB race,82,330,54
+NCT01601704,1,1,33,28,8910.0,INDUSTRY,United States,7436,1304,46,31,12,0,76,OMB race,570,8330,5
+NCT01618214,1,0,34,,344.0,INDUSTRY,China,0,0,344,0,0,0,0,OMB race,,,
+NCT01621178,1,1,35,30,577.0,INDUSTRY,Brazil;Hungary;Mexico;Poland;Romania;South Africa;Spain;Ukraine;United States,393,88,16,47,1,23,8,OMB race,232,344,0
+NCT01624259,1,1,36,31,599.0,INDUSTRY,Czechia;Germany;Hungary;Mexico;Poland;Puerto Rico;Romania;Slovakia;Spain;United States,515,37,1,43,0,3,0,OMB race,147,444,8
+NCT01644500,1,0,37,,737.0,INDUSTRY,China;South Korea;Taiwan,0,0,720,0,0,0,0,OMB race,,,
+NCT01648582,1,0,38,,774.0,INDUSTRY,China;Mexico;Russia;South Korea,83,0,631,41,0,0,0,OMB race,,,
+NCT01729156,1,0,39,,36.0,OTHER,,36,0,0,0,0,0,0,OMB race,,,
+NCT01736865,1,1,40,35,127.0,OTHER,United States,79,38,6,0,0,0,4,OMB race,3,120,4
+NCT01760447,1,1,41,36,223.0,INDUSTRY,,96,10,64,13,2,35,0,OMB race,77,128,15
+NCT01765270,1,1,42,37,12.0,OTHER,United States,7,3,0,0,0,0,0,OMB race,1,9,0
+NCT01768559,1,1,43,38,894.0,INDUSTRY,Canada;Chile;Czechia;Estonia;France;Germany;Hungary;Italy;Latvia;Lithuania;Mexico;Poland;Romania;Russia;Spain;Ukraine;United Kingdom;United States,828,36,29,0,0,1,0,OMB race,189,705,0
+NCT01769378,1,1,44,39,300.0,INDUSTRY,Argentina;Austria;Croatia;Mexico;Romania;Slovenia;South Africa;United States,249,11,5,26,0,8,0,OMB race,139,160,0
+NCT01773473,1,0,45,,403.0,INDUSTRY,China;Japan;South Korea;Turkey (Türkiye),29,0,374,0,0,0,0,OMB race,,,
+NCT01774968,1,1,46,40,325.0,INDUSTRY,Puerto Rico;United States,266,40,6,4,2,7,0,OMB race,62,263,0
+NCT01790438,1,1,47,42,641.0,INDUSTRY,Argentina;Canada;Czechia;Germany;Hungary;Mexico;Poland;Puerto Rico;South Korea;Spain;United States,523,36,78,1,0,1,2,OMB race,221,300,120
+NCT01794143,1,0,48,,7850.0,OTHER,United States,3314,1000,182,137,28,319,67,OMB race,,,
+NCT01798706,1,1,49,43,350.0,INDUSTRY,Australia;Bulgaria;Canada;Denmark;Germany;Norway;Peru;Poland;South Africa;Spain;Sweden;United Kingdom;United States,250,3,16,0,0,81,0,OMB race,99,251,0
+NCT01822548,1,1,50,44,64.0,OTHER,Italy,64,0,0,0,0,0,0,OMB race,0,64,0
+NCT01858532,1,0,51,,5107.0,INDUSTRY,,2110,224,1198,76,28,32,0,OMB race,,,
+NCT01894568,1,0,52,,388.0,INDUSTRY,Japan;South Korea;Taiwan,0,0,388,0,0,0,0,OMB race,,,
+NCT01897532,1,1,53,50,6991.0,INDUSTRY,Argentina;Brazil;Bulgaria;Canada;Chile;China;Colombia;Croatia;Czechia;Germany;Hungary;Israel;Japan;Malaysia;Mexico;Netherlands;Poland;Portugal;Romania;Russia;South Africa;South Korea;Spain;Taiwan;Ukraine;United Kingdom;United States,5596,411,640,315,17,0,0,OMB race,2501,4478,0
+NCT01919489,1,0,54,,273.0,OTHER,United States,50,192,0,0,0,0,31,OMB race,,,
+NCT01959334,1,0,55,,75.0,INDUSTRY,Canada,68,3,2,0,0,2,0,OMB race,,,
+NCT01986881,1,1,56,52,8246.0,INDUSTRY,,7240,235,498,38,29,206,0,OMB race,1043,7181,22
+NCT01989754,1,1,57,53,5813.0,INDUSTRY,Argentina;Australia;Belgium;Brazil;Canada;China;Czechia;France;Germany;Hungary;Italy;Malaysia;Mexico;Netherlands;New Zealand;Poland;Puerto Rico;Russia;South Korea;Spain;Sweden;Taiwan;Ukraine;United Kingdom;United States,4765,231,489,33,17,19,258,OMB race,1190,4593,29
+NCT01999218,1,0,58,,1326.0,INDUSTRY,,966,61,240,13,0,46,0,OMB race,,,
+NCT02019264,1,1,59,55,14673.0,INDUSTRY,Australia;Canada;Chile;Mexico;New Zealand;Poland;The Bahamas;United States,10640,920,159,47,53,181,0,OMB race,1038,10962,0
+NCT02029846,1,1,60,56,2.0,OTHER,United States,0,0,0,0,0,0,2,OMB race,0,2,0
+NCT02033889,1,0,61,,621.0,INDUSTRY,,411,64,100,0,0,46,0,OMB race,,,
+NCT02058147,1,1,62,57,1170.0,INDUSTRY,Australia;Belgium;Canada;Chile;Czechia;Denmark;Estonia;France;Germany;Hungary;Italy;Latvia;Lithuania;Mexico;Poland;Romania;Russia;South Africa;Spain;Sweden;Ukraine;United Kingdom;United States,1054,78,18,0,0,20,0,OMB race,223,947,0
+NCT02058160,1,1,63,58,736.0,INDUSTRY,Australia;Canada;Chile;Czechia;Denmark;Estonia;Hungary;Lithuania;Mexico;Netherlands;Poland;Romania;Russia;Slovakia;Spain;Sweden;Ukraine;United States,675,38,20,0,0,3,0,OMB race,132,604,0
+NCT02061969,1,0,64,,140.0,OTHER,United States,52,84,0,0,0,4,0,OMB race,,,
+NCT02072096,1,1,65,60,192.0,INDUSTRY,Austria;Germany;Puerto Rico;United Kingdom;United States,174,16,0,1,0,1,0,OMB race,67,122,3
+NCT02104739,1,1,66,61,21.0,OTHER,United States,3,8,1,0,0,1,3,OMB race,4,12,0
+NCT02132637,1,1,67,62,68.0,INDUSTRY,Germany;United States,66,0,1,0,1,0,0,OMB race,9,59,0
+NCT02152371,1,1,68,63,300.0,INDUSTRY,Czechia;Hungary;Italy;Puerto Rico;Spain;United Kingdom;United States,281,11,1,0,3,4,0,OMB race,51,208,41
+NCT02182830,1,1,69,64,166.0,INDUSTRY,United States,0,150,0,0,0,0,0,OMB race,0,150,0
+NCT02240680,1,1,70,66,302.0,INDUSTRY,Australia;Belgium;Colombia;Denmark;Finland;Germany;Greece;Ireland;Japan;Mexico;New Zealand;Poland;Romania;South Africa;Spain;United Kingdom;United States,165,18,104,11,1,3,0,OMB race,34,268,0
+NCT02251431,1,0,71,,57.0,OTHER,United States,30,24,0,0,0,0,3,OMB race,,,
+NCT02290925,1,0,72,,133.0,OTHER,Sri Lanka,0,0,133,0,0,0,0,OMB race,,,
+NCT02299388,1,1,73,68,11.0,OTHER,United States,3,8,0,0,0,0,0,OMB race,0,11,0
+NCT02302716,1,0,74,,493.0,INDUSTRY,India;Puerto Rico;Russia;South Korea;Taiwan;Turkey (Türkiye);United States,225,30,234,1,0,3,0,OMB race,,,
+NCT02325466,1,1,75,69,70.0,OTHER,United States,23,22,4,0,0,21,0,OMB race,41,29,0
+NCT02350478,1,0,76,,49.0,OTHER,Austria,43,0,0,0,0,0,0,OMB race,,,
+NCT02360774,1,1,77,70,30.0,OTHER,United States,12,11,0,0,0,2,0,OMB race,2,23,0
+NCT02408120,1,0,78,,226.0,OTHER,United States,37,174,0,0,0,4,0,OMB race,,,
+NCT02422446,1,0,79,,2.0,OTHER,United States,2,0,0,0,0,0,0,OMB race,,,
+NCT02426541,1,0,80,,55.0,INDUSTRY,Finland,31,0,0,0,0,0,0,OMB race,,,
+NCT02433678,1,0,81,,52.0,OTHER,United States,35,16,1,0,0,0,0,OMB race,,,
+NCT02467478,1,0,82,,31.0,OTHER,United States,7,20,0,0,0,0,4,OMB race,,,
+NCT02475070,1,0,83,,28.0,OTHER,Sweden,28,0,0,0,0,0,0,OMB race,,,
+NCT02505334,1,0,84,,635.0,INDUSTRY,Japan,0,0,466,0,0,0,0,OMB race,,,
+NCT02532855,1,0,85,,614.0,INDUSTRY,,474,19,18,32,1,69,0,OMB race,,,
+NCT02540993,1,1,86,73,5734.0,INDUSTRY,Argentina;Australia;Austria;Belgium;Brazil;Bulgaria;Canada;Chile;China;Colombia;Czechia;Denmark;Finland;France;Germany;Greece;Hong Kong;Hungary;Ireland;Israel;Italy;Japan;Lithuania;Malaysia;Mexico;Netherlands;New Zealand;Norway;Philippines;Poland;Portugal;Puerto Rico;Romania;Russia;Singapore;Slovakia;South Africa;South Korea;Spain;Sweden;Switzerland;Taiwan;Thailand;Turkey (Türkiye);Ukraine;United Kingdom;United States;Vietnam,3592,264,1440,154,18,187,19,OMB race,878,4773,23
+NCT02545049,1,1,87,74,7352.0,INDUSTRY,Argentina;Australia;Austria;Belgium;Brazil;Bulgaria;Canada;Chile;China;Colombia;Czechia;Denmark;Finland;France;Germany;Greece;Hong Kong;Hungary;Ireland;Israel;Italy;Japan;Lithuania;Malaysia;Mexico;Netherlands;New Zealand;Norway;Philippines;Poland;Portugal;Puerto Rico;Romania;Russia;Singapore;Slovakia;South Africa;South Korea;Spain;Sweden;Switzerland;Taiwan;Thailand;Turkey (Türkiye);Ukraine;United Kingdom;United States;Vietnam,5277,258,1454,143,31,173,16,OMB race,1221,6115,16
+NCT02556918,1,0,88,,202.0,OTHER,United States,146,48,0,0,0,0,7,OMB race,,,
+NCT02558296,1,1,89,76,1700.0,INDUSTRY,Canada;Czechia;Denmark;Mexico;Netherlands;Poland;Russia;South Korea;Taiwan;United States,1309,74,163,152,2,0,0,OMB race,259,1441,0
+NCT02561078,1,1,90,77,420.0,INDUSTRY,Puerto Rico;United States,320,33,9,3,3,51,1,OMB race,88,332,0
+NCT02581488,1,1,91,78,102.0,INDUSTRY,Canada;United States,94,6,0,1,0,0,1,OMB race,30,72,0
+NCT02582242,1,1,92,79,437.0,INDUSTRY,Algeria;China;Hong Kong;India;Taiwan;Turkey (Türkiye);Ukraine,86,0,351,0,0,0,0,OMB race,2,435,0
+NCT02586155,1,0,93,,2425.0,INDUSTRY,Argentina;Australia;Belgium;Bulgaria;Croatia;Germany;Hungary;Israel;Mexico;Netherlands;Poland;Russia;Serbia;Slovakia;Taiwan,2119,0,39,58,0,0,202,OMB race,,,
+NCT02589626,1,0,94,,65.0,INDUSTRY,Japan,0,0,65,0,0,0,0,OMB race,,,
+NCT02597049,1,1,95,82,424.0,INDUSTRY,Austria;Czechia;Germany;Hungary;Israel;Mexico;Puerto Rico;Spain;United States,378,12,1,7,0,25,0,OMB race,139,281,3
+NCT02607306,1,0,96,,819.0,INDUSTRY,Japan,0,0,819,0,0,0,0,OMB race,,,
+NCT02630706,1,0,97,,506.0,INDUSTRY,,0,0,506,0,0,0,0,OMB race,,,
+NCT02639637,1,0,98,,18.0,OTHER,United States,15,2,1,0,0,0,0,OMB race,,,
+NCT02648204,1,1,99,86,1201.0,INDUSTRY,Bulgaria;Croatia;Finland;Germany;Greece;Hong Kong;India;Ireland;Latvia;Lithuania;Portugal;Puerto Rico;Romania;Slovakia;Spain;United Kingdom;United States,928,70,191,0,0,0,10,OMB race,138,1061,0
+NCT02681094,1,1,100,88,905.0,INDUSTRY,Canada;Czechia;Germany;Mexico;Russia;United States,780,51,24,4,0,0,11,OMB race,293,577,0
+NCT02682901,1,1,101,90,84.0,OTHER,United States,36,47,1,0,0,0,0,OMB race,3,81,0
+NCT02715258,1,1,102,92,210.0,INDUSTRY,Canada;United States,154,31,20,0,1,0,1,OMB race,107,100,0
+NCT02738879,1,0,103,,746.0,INDUSTRY,,529,24,79,37,7,68,2,OMB race,,,
+NCT02750410,1,1,104,96,159.0,INDUSTRY,Japan,0,0,159,0,0,0,0,OMB race,0,159,0
+NCT02752880,1,0,105,,46.0,OTHER,Taiwan,0,0,41,0,0,0,0,OMB race,,,
+NCT02762578,1,1,106,97,543.0,INDUSTRY,China,0,0,543,0,0,0,0,OMB race,0,543,0
+NCT02765399,1,0,107,,23.0,OTHER,Finland,23,0,0,0,0,0,0,OMB race,,,
+NCT02769481,1,1,108,98,426.0,INDUSTRY,Germany;Poland;Spain;United States,402,9,13,0,1,0,1,OMB race,93,333,0
+NCT02773368,1,1,109,99,420.0,INDUSTRY,Argentina;Canada;Finland;Hungary;India;Russia;Slovakia;Slovenia;Spain;Switzerland;United States,346,5,66,1,0,0,2,OMB race,68,352,0
+NCT02791490,1,1,110,100,458.0,INDUSTRY,,322,15,1,50,0,70,0,OMB race,298,148,12
+NCT02796170,1,0,111,,11.0,OTHER,United States,3,6,1,0,0,1,0,OMB race,,,
+NCT02827708,1,1,112,101,324.0,INDUSTRY,Denmark;Finland;Israel;Poland;Russia;Sweden;United Kingdom;United States,310,13,1,0,0,0,0,OMB race,21,303,0
+NCT02836873,1,1,113,102,312.0,INDUSTRY,France;Japan;Spain;United States,171,15,120,0,2,0,4,OMB race,24,287,1
+NCT02856113,1,1,114,104,152.0,INDUSTRY,Brazil;Israel;Italy;Mexico;Poland;Russia;United States,88,32,1,25,0,5,0,OMB race,15,57,79
+NCT02897349,1,1,115,107,206.0,INDUSTRY,China,0,0,206,0,0,0,0,OMB race,0,206,0
+NCT02906709,1,0,116,,184.0,INDUSTRY,,0,0,184,0,0,0,0,OMB race,,,
+NCT02906917,1,1,117,108,532.0,INDUSTRY,Algeria;Czechia;India;Russia;Serbia;Turkey (Türkiye);United States,441,24,61,1,0,0,5,OMB race,41,491,0
+NCT02910089,1,0,118,,1400.0,INDUSTRY,United States,0,0,0,0,0,0,1362,OMB race,,,
+NCT02911948,1,0,119,,210.0,INDUSTRY,Japan,0,0,210,0,0,0,0,OMB race,,,
+NCT02917031,1,1,120,110,348.0,INDUSTRY,Bulgaria;Canada;Chile;Hungary;Romania;Russia;South Korea;Thailand;Ukraine;United States,294,4,49,0,0,0,0,OMB race,43,304,0
+NCT02920918,1,0,121,,36.0,OTHER,United States,17,19,0,0,0,0,0,OMB race,,,
+NCT02926937,1,1,122,111,399.0,INDUSTRY,Canada;Mexico;United States,306,47,24,18,0,2,2,OMB race,253,144,2
+NCT02926950,1,1,123,112,518.0,INDUSTRY,Canada;Hungary;Slovakia;United States,420,68,25,3,1,0,1,OMB race,223,293,2
+NCT02932475,1,1,124,113,831.0,OTHER,United States,112,224,0,0,0,0,458,OMB race,412,359,23
+NCT02963766,1,1,125,114,154.0,INDUSTRY,Brazil;France;Germany;Hungary;India;Mexico;Puerto Rico;Saudi Arabia;Turkey (Türkiye);United Kingdom;United States,84,23,19,16,1,7,4,OMB race,85,65,4
+NCT02964585,1,0,126,,34.0,OTHER,United States,9,15,5,0,0,0,0,OMB race,,,
+NCT02973477,1,0,127,,45.0,OTHER,United States,30,12,2,0,0,0,1,OMB race,,,
+NCT02981069,1,1,128,117,90.0,OTHER,United States,61,26,2,1,0,0,0,OMB race,67,20,3
+NCT02981966,1,1,129,118,32.0,OTHER,United States,30,2,0,0,0,0,0,OMB race,14,18,0
+NCT03013985,1,0,130,,247.0,OTHER,United States,69,132,2,7,0,0,1,OMB race,,,
+NCT03015220,1,1,131,120,458.0,INDUSTRY,Japan,0,0,458,0,0,0,0,OMB race,0,458,0
+NCT03018028,1,1,132,121,243.0,INDUSTRY,Japan,0,0,243,0,0,0,0,OMB race,0,243,0
+NCT03018938,1,0,133,,814.0,INDUSTRY,China,0,0,814,0,0,0,0,OMB race,,,
+NCT03061214,1,1,134,123,868.0,INDUSTRY,Brazil;China;Hong Kong;South Africa;South Korea;Taiwan;Ukraine,89,25,738,0,0,0,16,OMB race,82,786,0
+NCT03066830,1,1,135,124,507.0,INDUSTRY,Bulgaria;Estonia;Hungary;Poland;Romania;Slovakia;South Korea;Ukraine;United Kingdom;United States,426,16,62,0,1,1,1,OMB race,96,408,3
+NCT03078478,1,1,136,125,1609.0,INDUSTRY,Canada;Denmark;Estonia;Germany;Greece;Hungary;Norway;Poland;Puerto Rico;Romania;Serbia;United States,1392,143,54,9,1,0,10,OMB race,184,1425,0
+NCT03115112,1,1,137,127,386.0,INDUSTRY,Czechia;Hungary;Japan;Poland;Spain;United States,314,8,62,0,0,0,0,OMB race,10,374,0
+NCT03170518,1,1,138,130,171.0,INDUSTRY,Brazil;China;Greece;India;Malaysia;Mexico;Philippines;Poland;Russia;United States,71,19,72,8,0,1,0,OMB race,62,108,1
+NCT03172494,1,1,139,131,720.0,INDUSTRY,China,0,0,720,0,0,0,0,OMB race,0,720,0
+NCT03175120,1,1,140,132,453.0,INDUSTRY,China;Hong Kong,0,0,453,0,0,0,0,OMB race,0,453,0
+NCT03191396,1,1,141,133,577.0,INDUSTRY,Bulgaria;Czechia;Finland;France;Germany;Hungary;Italy;Poland;Slovenia;Spain;Sweden;United Kingdom,532,3,8,0,0,3,31,OMB race,9,537,31
+NCT03211858,1,0,142,,597.0,INDUSTRY,Finland;Germany;Hungary;Japan;Poland;Russia;United States,490,19,74,2,3,3,2,OMB race,,,
+NCT03214380,1,0,143,,933.0,INDUSTRY,Argentina;Australia;Czechia;Germany;Hungary;India;Italy;Japan;Mexico;Puerto Rico;Russia;Slovakia;South Korea;Spain;Taiwan;United States,487,30,303,4,1,11,1,OMB race,,,
+NCT03226457,1,0,144,,23.0,OTHER,United Kingdom,23,0,0,0,0,0,0,OMB race,,,
+NCT03242018,1,1,145,135,277.0,INDUSTRY,Argentina;Brazil;Colombia;Germany;Hungary;Israel;Italy;Mexico;Poland;Romania;Russia;South Africa;Spain;Ukraine;United States,227,16,5,22,1,6,0,OMB race,107,170,0
+NCT03242252,1,1,146,136,787.0,INDUSTRY,Argentina;Brazil;Canada;Colombia;Germany;Hungary;Israel;Italy;Mexico;Poland;Romania;Russia;South Africa;Spain;Ukraine;United States,666,41,20,44,2,6,8,OMB race,198,589,0
+NCT03258281,1,0,147,,4.0,OTHER,United States,4,0,0,0,0,0,0,OMB race,,,
+NCT03259789,1,1,148,137,351.0,INDUSTRY,Japan;United States,110,67,166,3,2,3,0,OMB race,76,275,0
+NCT03285594,1,1,149,140,571.0,INDUSTRY,Bulgaria;Canada;Czechia;France;Hungary;Slovakia;United Kingdom;United States,475,47,16,5,3,2,23,OMB race,79,481,11
+NCT03315143,1,1,150,141,10584.0,INDUSTRY,Argentina;Australia;Belgium;Brazil;Bulgaria;Canada;Chile;China;Czechia;Denmark;Estonia;France;Georgia;Germany;Greece;Guatemala;Hungary;India;Israel;Italy;Latvia;Lithuania;Mexico;Netherlands;New Zealand;North Macedonia;Norway;Peru;Poland;Portugal;Puerto Rico;Romania;Russia;Serbia;Slovakia;South Africa;South Korea;Spain;Sweden;Switzerland;Taiwan;Turkey (Türkiye);Ukraine;United Kingdom;United States,8712,363,682,421,40,243,123,OMB race,3349,7174,61
+NCT03331289,1,1,151,142,107.0,OTHER,United States,60,28,0,2,0,0,0,OMB race,56,32,2
+NCT03332771,1,1,152,143,954.0,INDUSTRY,Bulgaria;Hungary;Slovakia;United States,823,102,15,2,4,4,4,OMB race,297,653,4
+NCT03336528,1,1,153,144,180.0,OTHER,United States,34,114,0,0,1,12,0,OMB race,18,143,0
+NCT03338010,1,0,154,,536.0,INDUSTRY,China,0,0,536,0,0,0,0,OMB race,,,
+NCT03338855,1,1,155,145,26.0,INDUSTRY,Netherlands,26,0,0,0,0,0,0,OMB race,0,26,0
+NCT03351478,1,1,156,147,770.0,INDUSTRY,Bulgaria;Canada;Czechia;France;Italy;Latvia;Mexico;Russia;Slovakia;Spain;United Kingdom;United States,650,31,32,47,2,1,7,OMB race,155,615,0
+NCT03371108,1,1,157,149,567.0,INDUSTRY,United States,452,71,27,3,3,5,6,OMB race,128,436,3
+NCT03386344,1,1,158,150,376.0,INDUSTRY,Australia;Canada;Mexico;New Zealand;Russia;South Korea;Taiwan;United States,263,22,75,6,6,2,2,OMB race,67,308,1
+NCT03430856,1,0,159,,143.0,INDUSTRY,India,0,0,91,0,0,0,0,OMB race,,,
+NCT03437044,1,0,160,,40.0,OTHER,United States,26,13,0,0,0,0,1,OMB race,,,
+NCT03495102,1,1,161,153,1842.0,INDUSTRY,Argentina;Austria;Canada;Greece;Hungary;Israel;Italy;Mexico;Poland;Puerto Rico;Romania;Russia;Slovakia;Spain;Taiwan;United States,1580,82,45,88,5,42,0,OMB race,641,1103,98
+NCT03496298,1,0,162,,4076.0,INDUSTRY,Argentina;Bulgaria;Canada;Chile;Denmark;Estonia;Finland;Germany;Hungary;India;Italy;Latvia;Lithuania;Mexico;Norway;Peru;Poland;Romania;Russia;Serbia;Slovakia;South Africa;South Korea;Spain;Sweden;Turkey (Türkiye);Ukraine;United States,3534,143,267,27,3,18,84,OMB race,,,
+NCT03521934,1,1,163,154,1222.0,INDUSTRY,Argentina;Australia;Austria;Belgium;Brazil;Canada;Chile;Czechia;Denmark;Finland;France;Germany;Greece;Hungary;Israel;Italy;Latvia;Lithuania;Netherlands;New Zealand;Poland;Portugal;Romania;Russia;Slovakia;South Korea;Spain;Sweden;Switzerland;Turkey (Türkiye);United Kingdom;United States,1139,50,15,0,4,2,12,OMB race,320,893,9
+NCT03660553,1,0,164,,7.0,OTHER,United States,7,0,0,0,0,0,0,OMB race,,,
+NCT03660683,1,0,165,,15.0,OTHER,United States,5,8,2,0,0,0,0,OMB race,,,
+NCT03697109,1,1,166,160,152.0,INDUSTRY,Austria;Bulgaria;Canada;Germany;Israel;Italy;Netherlands;Poland;Romania;Spain;United States,121,18,0,0,1,6,6,OMB race,28,123,1
+NCT03724981,1,1,167,161,312.0,INDUSTRY,United States,155,105,10,3,1,8,28,OMB race,39,167,104
+NCT03730662,1,1,168,162,2002.0,INDUSTRY,Argentina;Australia;Brazil;Canada;Greece;Israel;Mexico;Poland;Puerto Rico;Romania;Russia;Slovakia;Spain;Taiwan;United States,1632,76,70,174,3,43,4,OMB race,951,1036,15
+NCT03737240,1,0,169,,145.0,OTHER,United States,10,124,0,0,0,11,0,OMB race,,,
+NCT03782259,1,1,170,163,62.0,OTHER,United States,43,6,9,3,0,0,1,OMB race,5,57,0
+NCT03818581,1,1,171,164,108.0,OTHER,United States,55,4,2,0,0,0,0,OMB race,5,56,0
+NCT03861039,1,1,172,166,443.0,INDUSTRY,Japan,0,0,443,0,0,0,0,OMB race,0,443,0
+NCT03861052,1,0,173,,636.0,INDUSTRY,Japan,0,0,636,0,0,0,0,OMB race,,,
+NCT03882970,1,1,174,167,1444.0,INDUSTRY,Argentina;Austria;Greece;Hungary;Italy;Poland;Puerto Rico;Romania;South Korea;Spain;Taiwan;Ukraine;United States,1312,44,78,4,4,2,0,OMB race,421,1015,8
+NCT03887936,1,1,175,168,92.0,FED,United States,54,33,5,0,0,0,0,OMB race,15,77,0
+NCT03914326,1,1,176,169,9651.0,INDUSTRY,Algeria;Argentina;Austria;Belgium;Brazil;Canada;China;Colombia;Croatia;Czechia;Denmark;France;Germany;Hong Kong;India;Israel;Italy;Japan;Malaysia;Mexico;Netherlands;Romania;Russia;Serbia;Slovakia;South Africa;South Korea;Spain;Taiwan;Thailand;Turkey (Türkiye);Ukraine;United Kingdom;United States,6648,252,2255,19,9,377,90,OMB race,1380,8178,92
+NCT03952143,1,0,177,,628.0,INDUSTRY,Argentina;China;Mexico,82,0,481,16,0,16,0,OMB race,,,
+NCT03954834,1,1,178,170,478.0,INDUSTRY,India;Japan;Mexico;Puerto Rico;United States,170,22,168,118,0,0,0,OMB race,207,184,87
+NCT03987919,1,1,179,172,1879.0,INDUSTRY,Argentina;Australia;Brazil;Canada;Israel;Mexico;Puerto Rico;United Kingdom;United States,1551,79,25,208,3,12,0,OMB race,1317,561,0
+NCT04029480,1,1,180,175,166.0,INDUSTRY,Belgium;Canada;Colombia;Costa Rica;Dominican Republic;France;Guatemala;Hungary;Israel;Italy;Malaysia;Mauritius;Mexico;Philippines;Poland;Russia;Saudi Arabia;Turkey (Türkiye);Ukraine;United Arab Emirates;United Kingdom;United States,99,5,25,19,0,18,0,OMB race,72,93,1
+NCT04039503,1,1,181,176,475.0,INDUSTRY,Czechia;Germany;Japan;Poland;Puerto Rico;Slovakia;Spain;United States,380,6,85,2,0,2,0,OMB race,22,380,73
+NCT04071626,1,0,182,,9.0,OTHER,United States,7,2,0,0,0,0,0,OMB race,,,
+NCT04093752,1,0,183,,917.0,INDUSTRY,Australia;China;India;South Korea,10,0,892,0,5,0,0,OMB race,,,
+NCT04126603,1,0,184,,10.0,OTHER,United States,4,6,0,0,0,0,0,OMB race,,,
+NCT04184622,1,0,185,,2539.0,INDUSTRY,Argentina;Brazil;China;India;Japan;Mexico;Puerto Rico;Russia;Taiwan;United States,1792,201,276,231,9,30,0,OMB race,,,
+NCT04233801,1,0,186,,219.0,INDUSTRY,China,0,0,219,0,0,0,0,OMB race,,,
+NCT04251156,1,1,187,180,375.0,INDUSTRY,Brazil;China;Hong Kong;South Korea,31,4,340,0,0,0,0,OMB race,37,338,0
+NCT04255433,1,1,188,181,13299.0,INDUSTRY,Argentina;Australia;Austria;Belgium;Brazil;Canada;China;Czechia;France;Germany;Greece;Hungary;India;Israel;Italy;Japan;Mexico;Netherlands;Poland;Puerto Rico;Romania;Russia;Slovakia;South Korea;Spain;Sweden;Taiwan;Turkey (Türkiye);Ukraine;United Kingdom;United States,10697,220,1170,970,18,48,176,OMB race,4010,8642,647
+NCT04298229,1,0,189,,240.0,OTHER,United States,163,68,0,0,0,0,7,OMB race,,,
+NCT04308590,1,1,190,182,137.0,INDUSTRY,Austria;Bulgaria;Germany;Israel;Italy;Poland;Romania;Spain;United States,128,4,3,1,0,0,1,OMB race,10,127,0
+NCT04460326,1,1,191,184,137.0,OTHER,United States,41,68,1,0,0,0,27,OMB race,42,94,1
+NCT04484259,1,0,192,,105.0,OTHER,United States,57,22,1,0,0,0,1,OMB race,,,
+NCT04531176,1,1,193,186,74.0,OTHER,United States,48,20,1,0,0,0,1,OMB race,6,62,2
+NCT04531462,1,1,194,187,129.0,INDUSTRY,Japan,0,0,127,0,0,0,0,OMB race,0,127,0
+NCT04537923,1,1,195,188,1428.0,INDUSTRY,Argentina;Belgium;Brazil;Czechia;Germany;Greece;Hungary;Italy;Mexico;Puerto Rico;Romania;Russia;Slovakia;Spain;Turkey (Türkiye);United States,1345,57,8,3,0,15,0,OMB race,885,536,7
+NCT04538352,1,1,196,189,60.0,OTHER,United States,37,20,1,1,0,0,1,OMB race,1,58,1
+NCT04588259,1,1,197,191,331.0,INDUSTRY,China;Hong Kong,0,0,300,0,0,0,0,OMB race,1,299,0
+NCT04591626,1,0,198,,291.0,INDUSTRY,China,0,0,291,0,0,0,0,OMB race,,,
+NCT04657003,1,1,199,193,938.0,INDUSTRY,Argentina;Brazil;India;Japan;Puerto Rico;Russia;Taiwan;United States,710,77,125,0,3,23,0,OMB race,561,358,19
+NCT04657016,1,1,200,194,579.0,INDUSTRY,Argentina;Brazil;Puerto Rico;United States,498,63,4,6,0,8,0,OMB race,312,261,6
+NCT04660643,1,1,201,195,783.0,INDUSTRY,Argentina;Brazil;Puerto Rico;Taiwan;United States,537,75,48,0,2,8,0,OMB race,296,373,1
+NCT04707469,1,1,202,196,1606.0,INDUSTRY,Australia;Bulgaria;Canada;Croatia;Czechia;Estonia;Germany;Hungary;India;Poland;Puerto Rico;Slovakia;Slovenia;Taiwan;United States,1254,59,269,1,2,0,21,OMB race,111,1495,0
+NCT04741074,1,1,203,197,15.0,OTHER,United States,13,2,0,0,0,0,0,OMB race,0,15,0
+NCT04770532,1,1,204,199,526.0,INDUSTRY,Bulgaria;Germany;Japan;Poland;Portugal;South Africa;South Korea;Ukraine;United States,298,23,196,2,7,0,0,OMB race,32,494,0
+NCT04795531,1,1,205,200,588.0,INDUSTRY,Argentina;Austria;Brazil;Canada;China;Czechia;Denmark;France;Mexico;Puerto Rico;Taiwan;United States,354,15,165,1,0,22,31,OMB race,164,393,31
+NCT04809220,1,0,206,,591.0,INDUSTRY,Japan,0,0,586,0,0,0,0,OMB race,,,
+NCT04880850,1,1,207,202,582.0,INDUSTRY,Belgium;India;Italy;Japan;Mexico;Netherlands;Romania;Russia;United States,370,21,188,1,1,0,1,OMB race,105,476,1
+NCT05024032,1,0,208,,210.0,INDUSTRY,China,0,0,210,0,0,0,0,OMB race,,,
+NCT05205005,1,1,209,204,24.0,FED,United States,24,0,0,0,0,0,0,OMB race,0,24,0
+NCT05259033,1,1,210,205,683.0,INDUSTRY,Brazil;Canada;China;France;Greece;Hungary;Israel;Japan;Russia;Slovakia;Sweden;Switzerland;Taiwan;Ukraine;United States,434,21,189,1,1,2,35,OMB race,74,574,35
+NCT05260021,1,1,211,206,99.0,INDUSTRY,Australia;Brazil;France;India;Israel;Italy;Mexico;United Kingdom;United States,57,11,6,20,3,2,0,OMB race,65,33,1
+NCT05275400,1,1,212,207,986.0,INDUSTRY,Argentina;Hungary;Japan;Poland;Puerto Rico;Slovakia;South Korea;Spain;Taiwan;United States,656,52,272,2,1,3,0,OMB race,267,719,0
+NCT05352815,1,1,213,208,1291.0,INDUSTRY,Australia;Belgium;Bulgaria;China;Croatia;Finland;India;Italy;Japan;Mexico;Norway;Poland;Portugal;Puerto Rico;Romania;Russia;Serbia;South Africa;South Korea;Taiwan;Turkey (Türkiye);United States,814,44,420,6,1,6,0,OMB race,211,1080,0
+NCT05362058,1,1,214,209,928.0,INDUSTRY,Brazil;Canada;China;Czechia;Germany;Greece;Japan;Mexico;Puerto Rico;South Korea;United States,468,58,327,70,0,5,0,OMB race,242,680,6
+NCT05405244,1,1,215,210,55.0,OTHER,United States,31,9,7,1,0,2,5,OMB race,8,47,0
+NCT05462756,1,1,216,211,730.0,INDUSTRY,Argentina;Germany;India;Italy;Mexico;Puerto Rico;Spain;United States,503,31,105,91,0,0,0,OMB race,404,324,2
+NCT05478252,1,1,217,212,388.0,INDUSTRY,Canada;Poland;Slovakia;South Africa;United States,286,60,39,0,1,2,0,OMB race,81,307,0
+NCT05514535,1,1,218,213,573.0,INDUSTRY,Czechia;Greece;Italy;Portugal;Puerto Rico;Romania;Russia;Slovakia;South Africa;Spain;Ukraine;United States,496,19,55,0,1,1,1,OMB race,58,515,0
+NCT05552859,1,1,219,214,62.0,INDUSTRY,Czechia;Hungary;Poland;Serbia;United States,56,4,0,0,0,0,2,OMB race,8,54,0
+NCT05564039,1,1,220,215,282.0,INDUSTRY,Belgium;Germany;Mexico;Romania;United States,229,6,4,42,0,1,0,OMB race,32,37,213
+NCT05649137,1,1,221,216,512.0,INDUSTRY,Bulgaria;Canada;Hungary;Poland;Portugal;Slovakia;South Africa;United States,428,44,32,1,5,2,0,OMB race,29,483,0
+NCT05662332,1,1,222,217,795.0,INDUSTRY,Argentina;Mexico;Puerto Rico;United States,542,23,9,213,2,4,2,OMB race,674,120,1
+NCT05691712,1,1,223,218,257.0,INDUSTRY,China,0,0,257,0,0,0,0,OMB race,0,257,0
+NCT05727579,1,0,224,,41.0,OTHER,Netherlands,30,0,1,0,0,3,0,OMB race,,,
+NCT05872620,1,1,225,220,1613.0,INDUSTRY,Argentina;Australia;Brazil;China;Czechia;Germany;Greece;India;Puerto Rico;South Korea;United States,1143,105,279,5,6,45,30,OMB race,488,1084,41
+NCT05963022,1,1,226,221,206.0,INDUSTRY,China,0,0,206,0,0,0,0,OMB race,0,206,0
+NCT05971940,1,1,227,222,559.0,INDUSTRY,China;India;Japan;Mexico;Puerto Rico;United States,145,24,245,143,0,1,1,OMB race,223,335,1
+NCT06010004,1,0,228,,401.0,INDUSTRY,Japan,0,0,401,0,0,0,0,OMB race,,,
+NCT01002547,1,0,229,,105.0,FED,United States,76,9,0,0,0,0,0,Free text,,,
+NCT01042977,1,0,230,,964.0,INDUSTRY,Argentina;Australia;Austria;Bulgaria;Canada;Chile;Germany;Hungary;Poland;United States,903,19,13,0,0,27,0,Free text,,,
+NCT01068652,1,0,231,,403.0,INDUSTRY,Algeria;Egypt;Morocco;South Africa;Tunisia,112,29,37,0,0,225,0,Free text,,,
+NCT01098539,1,0,232,,507.0,INDUSTRY,Australia;Brazil;Colombia;Germany;India;Israel;Peru;Philippines;Russia;South Africa;South Korea;Spain;Taiwan;United Kingdom;United States,224,78,160,32,1,0,0,Free text,,,
+NCT01128153,1,0,233,,257.0,INDUSTRY,Australia;Canada;India;South Korea;Thailand;United Kingdom,116,0,141,0,0,0,0,Free text,,,
+NCT01128894,1,0,234,,841.0,INDUSTRY,Australia;Israel;Peru;Philippines;South Korea;Spain;United Kingdom;United States,572,76,95,67,2,0,0,Free text,,,
+NCT01144338,1,0,235,,14752.0,INDUSTRY,Argentina;Australia;Austria;Belgium;Brazil;Bulgaria;Canada;Chile;China;Colombia;Czechia;Germany;Hong Kong;Hungary;Israel;Italy;Latvia;Lithuania;Malaysia;Mexico;Netherlands;New Zealand;Philippines;Poland;Romania;Russia;Slovakia;South Africa;South Korea;Spain;Taiwan;Thailand;Ukraine;United Kingdom;United States,11175,878,1452,73,35,0,5,Free text,,,
+NCT01159938,1,0,236,,72.0,INDUSTRY,Finland,71,0,0,0,0,0,0,Free text,,,
+NCT01169779,1,0,237,,391.0,INDUSTRY,China;Hong Kong;Malaysia;Thailand,0,0,390,0,0,0,0,Free text,,,
+NCT01175811,1,0,238,,402.0,INDUSTRY,China;South Korea;Taiwan,0,0,402,0,0,0,0,Free text,,,
+NCT01175824,1,0,239,,478.0,INDUSTRY,Argentina;Brazil;China;Egypt;India;South Korea;Spain;Turkey (Türkiye),269,6,160,32,0,9,0,Free text,,,
+NCT01181674,1,0,240,,83.0,OTHER,Canada,83,0,0,0,0,0,0,Free text,,,
+NCT01195662,1,0,241,,2245.0,INDUSTRY,Australia;Canada;Colombia;Czechia;Denmark;Finland;Germany;Hungary;India;Ireland;Mexico;Poland;Puerto Rico;Romania;United Kingdom;United States,401,45,108,0,0,28,379,Free text,,,
+NCT01232491,1,1,242,8,611.0,INDUSTRY,Argentina;Germany;Poland;Puerto Rico;Russia;Serbia;Slovakia;Slovenia;Spain;Turkey (Türkiye);United States,542,47,7,0,3,7,0,Free text,141,465,0
+NCT01392677,1,0,243,,311.0,INDUSTRY,Canada;Czechia;Germany;Poland;Slovakia;Spain,206,1,7,0,0,2,0,Free text,,,
+NCT01425359,1,1,244,14,949.0,INDUSTRY,Belarus;Bulgaria;Canada;Czechia;Georgia;Germany;Israel;Poland;Russia;Serbia;Slovakia;Slovenia;Ukraine;United States,935,7,2,0,0,0,0,Free text,9,926,0
+NCT01456195,1,0,245,,421.0,INDUSTRY,Argentina;Bulgaria;Guatemala;Hungary;Mexico;Slovakia;Ukraine;United States,335,26,9,50,0,1,0,Free text,,,
+NCT01472185,1,1,246,18,465.0,INDUSTRY,Czechia;Hungary;Poland;Romania;Russia;Serbia;Slovakia;South Africa;Ukraine;United States,422,19,19,0,0,3,1,Free text,60,403,1
+NCT01481116,1,0,247,,2454.0,INDUSTRY,Argentina;Australia;Bulgaria;Canada;Colombia;Czechia;Estonia;Hong Kong;Israel;Latvia;Lithuania;Malaysia;Mexico;New Zealand;Philippines;Poland;Romania;Russia;South Africa;Taiwan;Ukraine;United Kingdom;United States,1816,209,293,40,14,82,0,Free text,,,
+NCT01494987,1,1,248,21,431.0,INDUSTRY,Czechia;Hungary;Malaysia;Poland;Romania;Russia;Serbia;Slovakia;South Africa;Thailand;Ukraine;United States,402,13,7,1,1,7,0,Free text,64,363,4
+NCT01496430,1,1,249,22,105.0,INDUSTRY,United States,74,19,11,0,1,0,0,Free text,40,65,0
+NCT01524705,1,0,250,,102.0,OTHER,United States,83,13,0,0,0,2,0,Free text,,,
+NCT01528254,1,0,251,,2004.0,INDUSTRY,Argentina;Australia;Austria;Brazil;Bulgaria;Colombia;Czechia;Dominican Republic;Estonia;Finland;Germany;Guatemala;Hong Kong;Hungary;India;Israel;Italy;Latvia;Lithuania;Malaysia;Mexico;Norway;Panama;Peru;Philippines;Poland;Romania;Russia;Slovakia;South Africa;South Korea;Spain;Taiwan;Turkey (Türkiye),1217,49,373,210,0,152,0,Free text,,,
+NCT01549964,1,0,252,,916.0,INDUSTRY,Australia;Bulgaria;Croatia;Czechia;Hungary;Italy;Malaysia;Slovakia;South Korea;Thailand;United States,759,52,96,5,2,1,1,Free text,,,
+NCT01554618,1,1,253,25,84.0,INDUSTRY,Bulgaria;Hungary;Israel;Kuwait;Mexico;Ukraine;United States,35,25,3,5,0,14,0,Free text,33,42,7
+NCT01555164,1,1,254,26,442.0,INDUSTRY,Canada;Czechia;Hungary;India;Israel;Mexico;Poland;Russia;South Africa;Ukraine;United States,313,19,106,2,0,2,0,Free text,90,347,5
+NCT01558271,1,0,255,,492.0,INDUSTRY,Japan,0,0,487,0,0,0,0,Free text,,,
+NCT01584232,1,0,256,,361.0,INDUSTRY,Japan,0,0,361,0,0,0,0,Free text,,,
+NCT01594333,1,0,257,,4786.0,OTHER,Canada;Puerto Rico;United States,3756,338,181,12,9,107,0,Free text,,,
+NCT01609582,1,1,258,29,3207.0,INDUSTRY,Argentina;Australia;Brazil;Bulgaria;Canada;Croatia;Czechia;Estonia;France;Germany;Hong Kong;Hungary;Israel;Italy;Latvia;Lithuania;Malaysia;Mexico;New Zealand;Peru;Philippines;Poland;Romania;Russia;Slovakia;South Africa;South Korea;Taiwan;Thailand;Ukraine;United Kingdom;United States,2511,174,404,88,13,17,0,Free text,269,923,2015
+NCT01619059,1,0,259,,315.0,INDUSTRY,Canada;Czechia;Hungary;Mexico;Poland;Puerto Rico;Romania;Russia;United States,277,20,13,2,0,3,0,Free text,,,
+NCT01633177,1,0,260,,22220.0,OTHER,United States,16121,3852,0,192,0,0,946,Free text,,,
+NCT01646320,1,0,261,,320.0,INDUSTRY,Czechia;Mexico;Poland;Puerto Rico;Romania;Russia;United Kingdom;United States,297,18,2,0,0,3,0,Free text,,,
+NCT01647542,1,0,262,,393.0,INDUSTRY,Australia;China;New Zealand;South Korea;Taiwan,9,0,381,0,3,0,0,Free text,,,
+NCT01652716,1,1,263,32,377.0,INDUSTRY,United States,278,61,25,5,1,5,0,Free text,88,286,0
+NCT01652729,1,1,264,33,365.0,INDUSTRY,United States,296,49,14,3,1,1,0,Free text,220,144,0
+NCT01730534,1,1,265,34,17190.0,INDUSTRY,Argentina;Australia;Belgium;Brazil;Bulgaria;Canada;China;Czechia;France;Germany;Hong Kong;Hungary;India;Israel;Italy;Japan;Mexico;Netherlands;Philippines;Poland;Romania;Russia;Slovakia;South Africa;South Korea;Spain;Sweden;Taiwan;Thailand;Turkey (Türkiye);Ukraine;United Kingdom;United States;Vietnam,13653,603,2303,104,22,475,0,Free text,2568,14592,0
+NCT01733758,1,0,266,,494.0,INDUSTRY,Japan,0,0,490,0,0,0,0,Free text,,,
+NCT01736124,1,0,267,,199.0,FED,United States,91,52,0,0,0,0,3,Free text,,,
+NCT01754259,1,0,268,,47.0,OTHER,United States,34,10,2,0,0,0,0,Free text,,,
+NCT01775813,1,1,269,41,104.0,OTHER,United States,30,13,3,1,0,3,0,Free text,54,0,0
+NCT01777282,1,0,270,,374.0,INDUSTRY,Japan,0,0,374,0,0,0,0,Free text,,,
+NCT01779362,1,0,271,,267.0,NETWORK,United States,141,81,0,0,0,17,0,Free text,,,
+NCT01779375,1,0,272,,91.0,NETWORK,United States,25,23,0,0,0,9,0,Free text,,,
+NCT01817777,1,0,273,,31.0,INDUSTRY,Argentina,31,0,0,0,0,0,0,Free text,,,
+NCT01829464,1,1,274,45,90.0,INDUSTRY,Argentina;Peru;United States,77,6,5,0,1,1,0,Free text,22,68,0
+NCT01829477,1,1,275,46,33.0,INDUSTRY,Bulgaria;Canada;Hungary;Poland;Romania;Slovakia;United States,29,4,0,0,0,0,0,Free text,11,7,0
+NCT01834274,1,1,276,47,96.0,INDUSTRY,Argentina;Canada;Croatia;Hungary;Malaysia;Peru;Philippines;Poland;Russia;South Africa;Thailand;Ukraine;United States,79,12,3,0,1,1,0,Free text,65,30,0
+NCT01845831,1,0,277,,292.0,OTHER,United States,89,159,0,0,0,26,0,Free text,,,
+NCT01859793,1,0,278,,38.0,OTHER,United States,30,0,0,0,0,0,0,Free text,,,
+NCT01890122,1,1,279,49,647.0,INDUSTRY,China;Malaysia;South Korea;Taiwan,0,0,643,3,0,1,0,Free text,1,646,0
+NCT01966978,1,0,280,,157.0,OTHER,United States,22,50,0,0,0,0,0,Free text,,,
+NCT01972724,1,1,281,51,114.0,INDUSTRY,South Korea,0,0,111,0,0,0,0,Free text,0,111,0
+NCT01991795,1,0,282,,19271.0,INDUSTRY,Argentina;Australia;Austria;Belgium;Brazil;Bulgaria;Canada;Chile;China;Colombia;Czechia;Denmark;Finland;France;Germany;Hong Kong;Hungary;India;Israel;Italy;Japan;Mexico;Netherlands;Norway;Peru;Philippines;Poland;Puerto Rico;Romania;Russia;Saudi Arabia;Slovakia;South Africa;South Korea;Spain;Sweden;Taiwan;Thailand;Turkey (Türkiye);Ukraine;United Kingdom;United States;Vietnam,13696,403,4406,313,14,388,0,Free text,,,
+NCT02024477,1,0,283,,42.0,OTHER,United States,11,28,0,0,0,3,0,Free text,,,
+NCT02049814,1,0,284,,494.0,INDUSTRY,China,0,0,469,0,0,0,0,Free text,,,
+NCT02065791,1,1,285,59,4401.0,INDUSTRY,Argentina;Australia;Brazil;Bulgaria;Canada;Chile;China;Colombia;Czechia;France;Germany;Guatemala;Hungary;India;Japan;Lithuania;Malaysia;Mexico;New Zealand;Philippines;Poland;Puerto Rico;Romania;Russia;Serbia;Slovakia;South Africa;South Korea;Spain;Taiwan;Ukraine;United Arab Emirates;United Kingdom;United States,1791,224,877,0,0,388,0,Free text,1423,2893,85
+NCT02099838,1,0,286,,98.0,OTHER,China,0,0,95,0,0,2,0,Free text,,,
+NCT02229227,1,0,287,,814.0,INDUSTRY,Brazil;Canada;France;Germany;Hungary;Italy;Mexico;Philippines;Poland;South Africa;South Korea;Spain;United Kingdom;United States,596,69,62,71,4,12,0,Free text,,,
+NCT02229383,1,0,288,,464.0,INDUSTRY,Hungary;Poland;Romania;Slovakia;South Africa;United States,398,47,6,1,1,5,0,Free text,,,
+NCT02229396,1,0,289,,695.0,INDUSTRY,Hungary;Poland;Romania;Slovakia;South Africa;United States,573,94,5,2,0,11,0,Free text,,,
+NCT02243176,1,0,290,,689.0,INDUSTRY,China,0,0,481,0,0,0,0,Free text,,,
+NCT02273050,1,0,291,,1136.0,INDUSTRY,China,0,0,640,0,0,0,0,Free text,,,
+NCT02413398,1,0,292,,321.0,INDUSTRY,Bulgaria;Canada;Czechia;Italy;Poland;Spain;Sweden;United States,281,23,13,2,0,2,0,Free text,,,
+NCT02419612,1,0,293,,444.0,INDUSTRY,Czechia;Germany;Hungary;Mexico;Poland;Romania;Russia;Sweden;United Kingdom;United States,402,9,0,21,1,10,0,Free text,,,
+NCT02451137,1,1,294,71,3304.0,INDUSTRY,Canada;United States,2582,500,178,27,10,26,0,Free text,591,2713,0
+NCT02465515,1,0,295,,9463.0,INDUSTRY,Argentina;Belgium;Bulgaria;Canada;Czechia;Denmark;France;Germany;Greece;Hong Kong;Hungary;Italy;Mexico;Netherlands;Norway;Peru;Philippines;Poland;Russia;South Africa;South Korea;Spain;Sweden;Taiwan;Thailand;Ukraine;United Kingdom;United States,8030,239,471,518,5,198,2,Free text,,,
+NCT02471404,1,0,296,,939.0,INDUSTRY,Czechia;Germany;Hungary;Poland;Slovakia,929,6,4,0,0,0,0,Free text,,,
+NCT02496221,1,0,297,,20.0,INDUSTRY,United States,5,15,0,0,0,0,0,Free text,,,
+NCT02501161,1,1,298,72,1012.0,INDUSTRY,Argentina;Brazil;Czechia;Hungary;India;Israel;Italy;Mexico;Norway;Poland;Russia;Slovakia;South Africa;Turkey (Türkiye);United Kingdom;United States,838,53,115,0,0,6,0,Free text,241,771,0
+NCT02547935,1,1,299,75,459.0,INDUSTRY,Australia;Canada;Japan;Mexico;South Africa;South Korea;Spain;Taiwan;United States,196,26,177,2,4,43,0,Free text,112,336,0
+NCT02551874,1,0,300,,650.0,INDUSTRY,Czechia;Denmark;Hungary;Mexico;Poland;Romania;South Africa;Spain;Sweden;United States,517,63,24,18,1,20,0,Free text,,,
+NCT02561130,1,0,301,,154.0,OTHER,Canada,154,0,0,0,0,0,0,Free text,,,
+NCT02564926,1,0,302,,125.0,INDUSTRY,South Korea,0,0,121,0,0,0,0,Free text,,,
+NCT02585778,1,1,303,80,517.0,INDUSTRY,Austria;Belgium;France;Germany;Italy;Netherlands;Spain;Switzerland;United Kingdom;United States,468,35,10,0,0,4,0,Free text,22,493,2
+NCT02607865,1,1,304,83,1864.0,INDUSTRY,Argentina;Brazil;France;Germany;India;Israel;Japan;Mexico;Romania;Russia;South Africa;Turkey (Türkiye);Ukraine;United Kingdom;United States,1324,160,245,18,1,56,59,Free text,321,1506,0
+NCT02623998,1,0,305,,102.0,OTHER,Canada,102,0,0,0,0,0,0,Free text,,,
+NCT02642159,1,1,306,85,413.0,INDUSTRY,Australia;Brazil;Finland;Germany;Israel;Italy;Kuwait;Lebanon;Norway;Sweden;Switzerland;Turkey (Türkiye);United Arab Emirates;United Kingdom;United States,370,22,10,4,0,7,0,Free text,49,363,1
+NCT02683746,1,0,307,,308.0,INDUSTRY,United States,251,39,5,4,2,6,0,Free text,,,
+NCT02692716,1,1,308,91,3183.0,INDUSTRY,Algeria;Argentina;Brazil;Canada;Denmark;Germany;India;Israel;Italy;Malaysia;Mexico;Netherlands;Poland;Romania;South Africa;Spain;Taiwan;Thailand;Turkey (Türkiye);United Kingdom;United States,2300,192,630,29,6,26,0,Free text,514,2669,0
+NCT02725593,1,1,309,93,72.0,INDUSTRY,Hungary;Israel;Mexico;Romania;Russia;United Kingdom;United States,44,18,1,5,1,3,0,Free text,24,47,1
+NCT02730377,1,1,310,94,1991.0,INDUSTRY,Canada;Colombia;India;Latvia;Lebanon;Puerto Rico;Russia;Serbia;Turkey (Türkiye);United States,1438,207,290,9,5,42,0,Free text,365,1626,0
+NCT02739984,1,1,311,95,424.0,INDUSTRY,Belgium;Canada;Italy;Mexico;Poland;Spain;United States,325,73,6,15,2,3,0,Free text,78,346,0
+NCT02787551,1,0,312,,514.0,INDUSTRY,Canada;Estonia;Germany;Israel;Italy;Romania;Slovakia;Spain;United States,485,19,7,0,1,0,2,Free text,,,
+NCT02793154,1,0,313,,4.0,INDUSTRY,United States,2,2,0,0,0,0,0,Free text,,,
+NCT02849080,1,1,314,103,504.0,INDUSTRY,Argentina;Austria;Belgium;Brazil;Egypt;Norway;South Korea;Switzerland;Turkey (Türkiye);United States,381,47,72,0,0,4,0,Free text,105,399,0
+NCT02863328,1,1,315,105,822.0,INDUSTRY,Argentina;Brazil;Croatia;Greece;Hungary;Italy;Poland;Russia;Serbia;Spain;Thailand;United States,708,59,49,0,0,5,0,Free text,199,622,0
+NCT02863419,1,1,316,106,711.0,INDUSTRY,Croatia;Czechia;Germany;Hungary;Japan;Latvia;Poland;Puerto Rico;Slovakia;South Africa;Ukraine;United Arab Emirates;United States,519,29,94,2,1,14,52,Free text,40,671,0
+NCT02889510,1,0,317,,76.0,INDIV,Spain,74,0,0,0,0,2,0,Free text,,,
+NCT02906930,1,1,318,109,703.0,INDUSTRY,Algeria;Bulgaria;Czechia;Italy;Japan;Mexico;Romania;Russia;Serbia;Turkey (Türkiye);United States,528,37,121,4,1,12,0,Free text,180,492,0
+NCT02963922,1,1,319,115,396.0,INDUSTRY,Canada;Germany;Israel;Italy;Mexico;Turkey (Türkiye);United States,354,28,8,2,2,2,0,Free text,72,324,0
+NCT02964247,1,1,320,116,303.0,INDUSTRY,Brazil;India;Israel;Puerto Rico;Russia;United Arab Emirates;United States,190,17,53,1,1,41,0,Free text,94,209,0
+NCT03021187,1,1,321,122,731.0,INDUSTRY,Canada;France;Greece;India;Japan;Mexico;Poland;Puerto Rico;Russia;United States,376,49,263,2,0,3,38,Free text,97,595,0
+NCT03086330,1,1,322,126,302.0,INDUSTRY,Austria;Canada;Japan;Norway;Puerto Rico;Russia;United States,209,13,71,2,0,7,0,Free text,22,280,0
+NCT03136484,1,1,323,128,788.0,INDUSTRY,Argentina;Brazil;Canada;India;Ireland;Italy;Lebanon;Malaysia;Mexico;Sweden;United Kingdom;United States,587,58,125,4,0,13,1,Free text,293,495,0
+NCT03168295,1,1,324,129,34.0,OTHER,United States,10,2,0,0,0,0,0,Free text,22,0,0
+NCT03199053,1,1,325,134,256.0,INDUSTRY,Argentina;Australia;Brazil;Canada;Chile;Colombia;Finland;India;Israel;Italy;Malaysia;Mexico;New Zealand;Philippines;Poland;Russia;South Korea;Taiwan;Thailand;Turkey (Türkiye);Ukraine;United Kingdom;United States,124,14,65,30,3,9,0,Free text,122,123,0
+NCT03268005,1,1,326,139,1264.0,INDUSTRY,Argentina;Bulgaria;Canada;Croatia;Czechia;Germany;Greece;Italy;Poland;Puerto Rico;Romania;Russia;Serbia;Slovakia;South Korea;Spain;Ukraine;United States,974,33,74,0,7,3,0,Free text,118,973,0
+NCT03315780,1,0,327,,12.0,INDUSTRY,Japan,0,0,12,0,0,0,0,Free text,,,
+NCT03353350,1,1,328,148,406.0,INDUSTRY,Germany;Poland;Ukraine;United Kingdom;United States,361,37,5,0,0,3,0,Free text,86,320,0
+NCT03387683,1,0,329,,53.0,INDUSTRY,Finland;Sweden,53,0,0,0,0,0,0,Free text,,,
+NCT03429543,1,1,330,151,175.0,INDUSTRY,Argentina;Brazil;Canada;China;Colombia;Germany;Israel;Mexico;Puerto Rico;Russia;South Korea;Thailand;United Kingdom;United States,85,59,10,8,3,10,0,Free text,65,110,0
+NCT03434119,1,1,331,152,241.0,INDUSTRY,United States,0,79,38,0,0,0,0,Free text,124,0,0
+NCT03436693,1,0,332,,308.0,INDUSTRY,Japan,0,0,308,0,0,0,0,Free text,,,
+NCT03552757,1,1,333,155,1210.0,INDUSTRY,Argentina;Canada;Germany;Greece;India;Japan;Puerto Rico;Russia;South Africa;Spain;United Arab Emirates;United Kingdom;United States,751,100,317,6,1,35,0,Free text,155,1055,0
+NCT03596450,1,1,334,156,1278.0,INDUSTRY,Canada;United States,1004,189,0,43,5,36,1,Free text,114,1163,1
+NCT03620890,1,1,335,157,108.0,OTHER,United States,9,28,4,0,0,0,0,Free text,67,0,0
+NCT03684642,1,0,336,,908.0,INDUSTRY,Hungary;Poland;Ukraine;United States,809,72,14,0,0,9,4,Free text,,,
+NCT03687827,1,1,337,158,498.0,INDUSTRY,Canada;Poland;Puerto Rico;Slovakia;South Africa;United States,415,39,23,2,0,19,0,Free text,100,398,0
+NCT03689374,1,1,338,159,2274.0,INDUSTRY,Bosnia and Herzegovina;Bulgaria;Croatia;Czechia;Estonia;Germany;Greece;Hungary;India;Latvia;Lithuania;North Macedonia;Poland;Portugal;Romania;Serbia;Slovakia;Slovenia;South Africa;Spain;Turkey (Türkiye),1365,35,342,0,0,6,0,Free text,45,1703,0
+NCT03713684,1,0,339,,370.0,INDUSTRY,China;South Korea;United States,195,36,133,0,0,5,1,Free text,,,
+NCT03770728,1,0,340,,312.0,INDUSTRY,China;Taiwan;United States,179,32,96,0,0,4,1,Free text,,,
+NCT03819153,1,1,341,165,3533.0,INDUSTRY,Argentina;Australia;Belgium;Brazil;Bulgaria;Canada;China;France;Germany;Greece;Hungary;India;Israel;Italy;Japan;Malaysia;Mexico;Netherlands;Poland;Russia;Slovakia;South Africa;Spain;Thailand;Turkey (Türkiye);Ukraine;United Kingdom;United States,2323,160,846,25,5,95,79,Free text,556,2832,145
+NCT03989232,1,1,342,173,961.0,INDUSTRY,Bulgaria;Canada;Czechia;Greece;Hungary;Japan;Poland;Puerto Rico;Slovakia;Ukraine;United States,847,43,69,1,0,1,0,Free text,111,850,0
+NCT04017832,1,1,343,174,1441.0,INDUSTRY,Algeria;Brazil;China;Czechia;Hong Kong;Romania;Serbia;South Africa;Taiwan,264,38,1084,0,0,55,0,Free text,69,1372,0
+NCT04109547,1,1,344,178,521.0,INDUSTRY,Algeria;China;Hungary;Serbia;Taiwan;Ukraine,131,0,389,1,0,0,0,Free text,1,520,0
+NCT04189848,1,1,345,179,104.0,INDUSTRY,Netherlands,100,1,3,0,0,0,0,Free text,0,104,0
+NCT04429503,1,1,346,183,660.0,INDUSTRY,Canada;Czechia;Germany;Hungary;Japan;Puerto Rico;United Kingdom;United States,471,62,101,2,1,12,9,Free text,119,525,14
+NCT04460885,1,1,347,185,984.0,INDUSTRY,Croatia;India;Israel;Italy;Japan;Mexico;Poland;Puerto Rico;Russia;Slovakia;Spain;United Kingdom;United States,650,27,274,2,2,29,0,Free text,106,878,0
+NCT04560998,1,1,348,190,792.0,INDUSTRY,Austria;Belgium;Canada;China;Czechia;Denmark;Germany;Greece;Hungary;India;Japan;Latvia;Malaysia;Norway;Poland;Russia;Spain;Sweden;Taiwan;Thailand;United States,538,8,240,1,1,4,0,Free text,13,773,6
+NCT04596631,1,1,349,192,132.0,INDUSTRY,Australia;Austria;Belgium;Czechia;Greece;India;Israel;Lebanon;Malaysia;Mexico;Morocco;Netherlands;New Zealand;North Macedonia;Portugal;Puerto Rico;Romania;Russia;Taiwan;Ukraine;United Kingdom;United States,50,18,41,0,1,22,0,Free text,32,100,0
+NCT04760626,1,1,350,198,1085.0,INDUSTRY,Bulgaria;Canada;Germany;Greece;Hungary;Poland;Puerto Rico;Serbia;Turkey (Türkiye);United States,971,52,47,3,3,8,1,Free text,95,989,1
+NCT04865770,1,1,351,201,106.0,INDUSTRY,Canada;Denmark;France;Italy;Poland;South Africa;Spain;United States,65,10,15,2,0,4,10,Free text,8,87,11
+NCT04965935,1,0,352,,52.0,OTHER,Canada,24,6,18,0,0,3,0,Free text,,,
+NCT05035082,1,1,353,203,1018.0,INDUSTRY,United States,739,133,80,0,0,60,19,Free text,193,812,13
+NCT05413369,1,0,354,,582.0,INDUSTRY,China,0,0,582,0,0,0,0,Free text,,,
+NCT06340854,1,1,355,223,412.0,INDUSTRY,Bulgaria;Germany;India;Japan;Poland;Puerto Rico;South Africa;Spain;United States,249,16,143,2,0,0,2,Free text,53,353,6
+NCT01842620,0,1,,48,25.0,INDUSTRY,,,,,,,,,,25,0,0
+NCT02014740,0,1,,54,100.0,OTHER,United States,,,,,,,,,38,62,0
+NCT02235298,0,1,,65,100.0,OTHER,United States,,,,,,,,,47,53,0
+NCT02256189,0,1,,67,28.0,OTHER,Sweden,,,,,,,,,0,28,0
+NCT02592421,0,1,,81,30.0,OTHER,United States,,,,,,,,,16,14,0
+NCT02608905,0,1,,84,17.0,OTHER,United States,,,,,,,,,7,10,0
+NCT02680457,0,1,,87,12.0,OTHER,Mexico,,,,,,,,,12,0,0
+NCT02682563,0,1,,89,44.0,OTHER,Netherlands,,,,,,,,,0,44,0
+NCT02984644,0,1,,119,30.0,OTHER,United States,,,,,,,,,18,12,0
+NCT03267576,0,1,,138,64.0,INDUSTRY,Mexico,,,,,,,,,63,0,0
+NCT03350984,0,1,,146,75.0,OTHER,Mexico,,,,,,,,,75,0,0
+NCT03968224,0,1,,171,160.0,OTHER,Mexico,,,,,,,,,109,0,0
+NCT04090580,0,1,,177,88.0,OTHER,Mexico,,,,,,,,,88,0,0
+NCT05786521,0,1,,219,20.0,OTHER,United States,,,,,,,,,9,11,0

@@ -1,0 +1,613 @@
+nct_id,step,disposition,phase,start_date,enrollment,lead_sponsor_class,in_race_cohort,in_ethnicity_cohort
+NCT00979628,2 race measure,Excluded: no race measure of any kind,PHASE4,2010-01,375.0,OTHER,0,0
+NCT00993187,2 race measure,Excluded: no race measure of any kind,PHASE4,2010-05-04,292.0,INDUSTRY,0,0
+NCT01029886,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-01,912.0,INDUSTRY,0,0
+NCT01031680,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-02,922.0,INDUSTRY,0,0
+NCT01040819,2 race measure,Excluded: no race measure of any kind,PHASE4,2010-02,25.0,OTHER,0,0
+NCT01045447,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-01,465.0,INDUSTRY,0,0
+NCT01045707,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-01,530.0,INDUSTRY,0,0
+NCT01046110,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-01,458.0,INDUSTRY,0,0
+NCT01059799,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-02-01,435.0,INDUSTRY,0,0
+NCT01059812,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-02-01,424.0,INDUSTRY,0,0
+NCT01064414,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-06,272.0,INDUSTRY,0,0
+NCT01068665,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-03,460.0,INDUSTRY,0,0
+NCT01068678,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-02,460.0,INDUSTRY,0,0
+NCT01072331,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-02,99.0,INDUSTRY,0,0
+NCT01076075,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-06-03,427.0,INDUSTRY,0,0
+NCT01076088,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-11-15,744.0,INDUSTRY,0,0
+NCT01076647,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-03,467.0,INDUSTRY,0,0
+NCT01081834,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-03,678.0,INDUSTRY,0,0
+NCT01084005,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-03,241.0,INDUSTRY,0,0
+NCT01087502,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-03,241.0,INDUSTRY,0,0
+NCT01106625,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-05,469.0,INDUSTRY,0,0
+NCT01106651,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-06,716.0,INDUSTRY,0,0
+NCT01106677,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-05,1284.0,INDUSTRY,0,0
+NCT01106690,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-06,344.0,INDUSTRY,0,0
+NCT01117350,2 race measure,Excluded: no race measure of any kind,PHASE4,2010-07,978.0,INDUSTRY,0,0
+NCT01127659,2 race measure,Excluded: no race measure of any kind,PHASE4,2010-05,137.0,OTHER,0,0
+NCT01131182,2 race measure,Excluded: no race measure of any kind,PHASE4,2010-06-13,1147.0,INDUSTRY,0,0
+NCT01131676,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-07,7064.0,INDUSTRY,0,0
+NCT01137812,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-07,756.0,INDUSTRY,0,0
+NCT01159600,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-07,1504.0,INDUSTRY,0,0
+NCT01164501,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-07,741.0,INDUSTRY,0,0
+NCT01165684,2 race measure,Excluded: no race measure of any kind,PHASE4,2010-10,401.0,INDUSTRY,0,0
+NCT01167881,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-08,1549.0,INDUSTRY,0,0
+NCT01177384,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-01-25,380.0,INDUSTRY,0,0
+NCT01177813,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-07,986.0,INDUSTRY,0,0
+NCT01179048,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-08-31,9341.0,INDUSTRY,0,0
+NCT01183013,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-08,936.0,INDUSTRY,0,0
+NCT01189890,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-08-16,480.0,INDUSTRY,0,0
+NCT01194830,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-09,234.0,INDUSTRY,0,0
+NCT01204294,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-09,574.0,INDUSTRY,0,0
+NCT01204775,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-06,26.0,INDUSTRY,0,0
+NCT01210001,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-09,499.0,INDUSTRY,0,0
+NCT01214239,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-10,300.0,INDUSTRY,0,0
+NCT01215097,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-10,306.0,INDUSTRY,0,0
+NCT01215435,2 race measure,Excluded: no race measure of any kind,PHASE4,2011-03,245.0,INDUSTRY,0,0
+NCT01217892,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-11,400.0,INDUSTRY,0,0
+NCT01226043,2 race measure,Excluded: no race measure of any kind,PHASE4,2010-10,405.0,INDUSTRY,0,0
+NCT01272193,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-01,296.0,INDUSTRY,0,0
+NCT01294423,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-02,261.0,INDUSTRY,0,0
+NCT01296412,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-03-11,653.0,INDUSTRY,0,0
+NCT01306214,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-02,566.0,INDUSTRY,0,0
+NCT01326026,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-03,222.0,INDUSTRY,0,0
+NCT01326533,2 race measure,Excluded: no race measure of any kind,PHASE4,2011-03,32.0,OTHER,0,0
+NCT01334125,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-02,28.0,OTHER,0,0
+NCT01334229,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-04,22.0,OTHER,0,0
+NCT01336023,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-05-23,1663.0,INDUSTRY,0,0
+NCT01340768,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-06-22,870.0,INDUSTRY,0,0
+NCT01350102,2 race measure,Excluded: no race measure of any kind,PHASE4,2012-02,2.0,OTHER,0,0
+NCT01364428,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-06,373.0,INDUSTRY,0,0
+NCT01365507,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-06,276.0,INDUSTRY,0,0
+NCT01368081,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-05,1162.0,INDUSTRY,0,0
+NCT01370005,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-06,825.0,INDUSTRY,0,0
+NCT01378117,2 race measure,Excluded: no race measure of any kind,PHASE4,2011-08,90.0,OTHER,0,0
+NCT01381900,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-08,678.0,INDUSTRY,0,0
+NCT01382303,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE4,2010-10-25,174.0,OTHER,0,0
+NCT01387737,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-05,1299.0,INDUSTRY,0,0
+NCT01388361,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-09,413.0,INDUSTRY,0,0
+NCT01392573,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-11-28,413.0,INDUSTRY,0,0
+NCT01409239,2 race measure,Excluded: no race measure of any kind,PHASE4,2011-07,42.0,OTHER,0,0
+NCT01413204,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-07,272.0,INDUSTRY,0,0
+NCT01422876,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-08,1405.0,INDUSTRY,0,0
+NCT01427920,2 race measure,Excluded: no race measure of any kind,PHASE4,2011-09,348.0,INDUSTRY,0,0
+NCT01434186,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-05,32.0,INDUSTRY,0,0
+NCT01438814,2 race measure,Excluded: no race measure of any kind,PHASE4,2011-11,689.0,INDUSTRY,0,0
+NCT01453049,2 race measure,Excluded: no race measure of any kind,PHASE3,2010-04,86.0,INDUSTRY,0,0
+NCT01461499,2 race measure,Excluded: no race measure of any kind,PHASE4,2011-10,237.0,OTHER,0,0
+NCT01462266,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-01-13,660.0,INDUSTRY,0,0
+NCT01472432,2 race measure,Excluded: no race measure of any kind,PHASE4,2011-05,106.0,OTHER,0,0
+NCT01474018,2 race measure,Excluded: no race measure of any kind,PHASE4,2011-11,15.0,OTHER,0,0
+NCT01477853,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-10-24,166.0,INDUSTRY,0,0
+NCT01490918,2 race measure,Excluded: no race measure of any kind,PHASE4,2012-04,165.0,OTHER,0,0
+NCT01499082,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-12,807.0,INDUSTRY,0,0
+NCT01499095,2 race measure,Excluded: no race measure of any kind,PHASE3,2011-12,811.0,INDUSTRY,0,0
+NCT01505673,2 race measure,Excluded: no race measure of any kind,PHASE4,2012-01,71.0,OTHER,0,0
+NCT01512108,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-01-10,363.0,INDUSTRY,0,0
+NCT01512979,2 race measure,Excluded: no race measure of any kind,PHASE4,2012-01,316.0,INDUSTRY,0,0
+NCT01513590,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-01-16,394.0,INDUSTRY,0,0
+NCT01515657,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-01,40.0,INDUSTRY,0,0
+NCT01519674,2 race measure,Excluded: no race measure of any kind,PHASE4,2012-06,582.0,INDUSTRY,0,0
+NCT01541735,2 race measure,Excluded: no race measure of any kind,PHASE2;PHASE3,2012-01,14.0,OTHER_GOV,0,0
+NCT01545388,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-02-23,337.0,INDUSTRY,0,0
+NCT01570751,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-04,145.0,INDUSTRY,0,0
+NCT01572740,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-04-05,257.0,INDUSTRY,0,0
+NCT01589653,2 race measure,Excluded: no race measure of any kind,PHASE4,2012-05-26,155.0,INDUSTRY,0,0
+NCT01590771,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-07-09,498.0,INDUSTRY,0,0
+NCT01590797,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-07-10,467.0,INDUSTRY,0,0
+NCT01611883,2 race measure,Excluded: no race measure of any kind,PHASE4,2012-07-02,152.0,INDUSTRY,0,0
+NCT01617434,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-09,451.0,INDUSTRY,0,0
+NCT01618162,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-08-29,435.0,INDUSTRY,0,0
+NCT01620489,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-06-14,279.0,INDUSTRY,0,0
+NCT01664247,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-10-01,346.0,INDUSTRY,0,0
+NCT01676116,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-08-29,438.0,INDUSTRY,0,0
+NCT01676220,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-08,878.0,INDUSTRY,0,0
+NCT01677936,2 race measure,Excluded: no race measure of any kind,PHASE4,2012-06,51.0,OTHER,0,0
+NCT01678820,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-10-10,299.0,INDUSTRY,0,0
+NCT01680341,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-08-31,272.0,INDUSTRY,0,0
+NCT01682759,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-09-10,751.0,INDUSTRY,0,0
+NCT01686932,2 race measure,Excluded: no race measure of any kind,PHASE4,2012-11,51.0,INDUSTRY,0,0
+NCT01697592,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-10-24,585.0,INDUSTRY,0,0
+NCT01698775,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-10-02,213.0,INDUSTRY,0,0
+NCT01703208,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-10-05,4202.0,INDUSTRY,0,0
+NCT01703221,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-10-24,414.0,INDUSTRY,0,0
+NCT01704261,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-10-18,307.0,INDUSTRY,0,0
+NCT01708902,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-10,876.0,INDUSTRY,0,0
+NCT01709305,2 race measure,Excluded: no race measure of any kind,PHASE4,2012-11-08,5570.0,INDUSTRY,0,0
+NCT01713530,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-02-21,274.0,INDUSTRY,0,0
+NCT01717313,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-12-05,329.0,INDUSTRY,0,0
+NCT01719003,2 race measure,Excluded: no race measure of any kind,PHASE3,2012-10,1413.0,INDUSTRY,0,0
+NCT01720446,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-02-21,3297.0,INDUSTRY,0,0
+NCT01734785,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-02-08,607.0,INDUSTRY,0,0
+NCT01755156,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-01-11,402.0,INDUSTRY,0,0
+NCT01766778,2 race measure,Excluded: no race measure of any kind,PHASE4,2013-05-13,117.0,INDUSTRY,0,0
+NCT01770483,2 race measure,Excluded: no race measure of any kind,PHASE4,2011-07,66.0,OTHER_GOV,0,0
+NCT01778049,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-01,708.0,INDUSTRY,0,0
+NCT01792518,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-02,360.0,INDUSTRY,0,0
+NCT01809327,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-06-04,1186.0,INDUSTRY,0,0
+NCT01811485,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-05,171.0,INDUSTRY,0,0
+NCT01814137,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-03,40.0,INDUSTRY,0,0
+NCT01814748,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-05-03,203.0,INDUSTRY,0,0
+NCT01819129,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-09-09,881.0,INDUSTRY,0,0
+NCT01823510,2 race measure,Excluded: no race measure of any kind,PHASE4,2013-07,20.0,OTHER,0,0
+NCT01841697,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-06-13,642.0,INDUSTRY,0,0
+NCT01842620,2 race measure,Excluded: no race measure of any kind,PHASE4,2013-03-13,25.0,INDUSTRY,0,1
+NCT01849289,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-06-02,833.0,INDUSTRY,0,0
+NCT01850615,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-09-23,323.0,INDUSTRY,0,0
+NCT01853072,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-06,881.0,INDUSTRY,0,0
+NCT01863667,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-07-08,65.0,INDUSTRY,0,0
+NCT01868542,2 race measure,Excluded: no race measure of any kind,PHASE4,2013-06,46.0,INDUSTRY,0,0
+NCT01868646,2 race measure,Excluded: no race measure of any kind,PHASE4,2013-05-07,190.0,INDUSTRY,0,0
+NCT01871558,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-06,42.0,INDUSTRY,0,0
+NCT01872611,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-06,819.0,INDUSTRY,0,0
+NCT01880736,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-06,458.0,INDUSTRY,0,0
+NCT01885208,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-12-02,813.0,INDUSTRY,0,0
+NCT01892020,2 race measure,Excluded: no race measure of any kind,PHASE4,2013-06,161.0,INDUSTRY,0,0
+NCT01907854,2 race measure,Excluded: no race measure of any kind,PHASE4,2013-12-02,407.0,INDUSTRY,0,0
+NCT01910441,2 race measure,Excluded: no race measure of any kind,PHASE4,2013-07,95.0,INDUSTRY,0,0
+NCT01917656,2 race measure,Excluded: no race measure of any kind,PHASE4,2014-01-09,343.0,INDUSTRY,0,0
+NCT01930188,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-12-02,1231.0,INDUSTRY,0,0
+NCT01937598,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-08,16.0,OTHER,0,0
+NCT01939496,2 race measure,Excluded: no race measure of any kind,PHASE4,2013-10,171.0,INDUSTRY,0,0
+NCT01947855,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-09,60.0,INDUSTRY,0,0
+NCT01951651,2 race measure,Excluded: no race measure of any kind,PHASE4,2010-04,24.0,OTHER,0,0
+NCT01952145,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-09-20,557.0,INDUSTRY,0,0
+NCT01958671,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-10-09,461.0,INDUSTRY,0,0
+NCT01959529,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-10-29,7637.0,INDUSTRY,0,0
+NCT01969084,2 race measure,Excluded: no race measure of any kind,PHASE4,2013-10,45.0,OTHER,0,0
+NCT01970462,2 race measure,Excluded: no race measure of any kind,PHASE4,2014-01,8.0,OTHER,0,0
+NCT01973231,2 race measure,Excluded: no race measure of any kind,PHASE4,2013-10,404.0,INDUSTRY,0,0
+NCT01980524,2 race measure,Excluded: no race measure of any kind,PHASE2;PHASE3,2013-10,8.0,OTHER,0,0
+NCT01986855,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-12-02,468.0,INDUSTRY,0,0
+NCT02002221,2 race measure,Excluded: no race measure of any kind,PHASE4,2013-12,156.0,INDUSTRY,0,0
+NCT02007278,2 race measure,Excluded: no race measure of any kind,PHASE4,2014-01-03,40.0,INDUSTRY,0,0
+NCT02008682,2 race measure,Excluded: no race measure of any kind,PHASE4,2013-12,368.0,INDUSTRY,0,0
+NCT02008942,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-01,57.0,INDUSTRY,0,0
+NCT02014740,2 race measure,Excluded: no race measure of any kind,PHASE4,2014-03,100.0,OTHER,0,1
+NCT02015910,2 race measure,Excluded: no race measure of any kind,PHASE4,2014-01,1.0,OTHER,0,0
+NCT02025907,2 race measure,Excluded: no race measure of any kind,PHASE4,2014-02,218.0,INDUSTRY,0,0
+NCT02030600,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-01-06,721.0,INDUSTRY,0,0
+NCT02036515,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-03-12,464.0,INDUSTRY,0,0
+NCT02054897,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-02-03,388.0,INDUSTRY,0,0
+NCT02059187,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-02-11,531.0,INDUSTRY,0,0
+NCT02068443,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-02,374.0,INDUSTRY,0,0
+NCT02079805,2 race measure,Excluded: no race measure of any kind,PHASE4,2014-06,33.0,INDUSTRY,0,0
+NCT02081599,2 race measure,Excluded: no race measure of any kind,PHASE4,2014-01,148.0,INDUSTRY,0,0
+NCT02096705,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-03-31,477.0,INDUSTRY,0,0
+NCT02099110,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-04-22,1233.0,INDUSTRY,0,0
+NCT02100475,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-04,31.0,INDUSTRY,0,0
+NCT02104804,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-05-07,953.0,INDUSTRY,0,0
+NCT02128932,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-08-04,1089.0,INDUSTRY,0,0
+NCT02131272,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-06-11,42.0,INDUSTRY,0,0
+NCT02157298,2 race measure,Excluded: no race measure of any kind,PHASE4,2014-06,266.0,INDUSTRY,0,0
+NCT02207374,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-08-04,601.0,INDUSTRY,0,0
+NCT02220920,2 race measure,Excluded: no race measure of any kind,PHASE4,2014-08,146.0,INDUSTRY,0,0
+NCT02226003,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-09-23,291.0,INDUSTRY,0,0
+NCT02227875,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-08,560.0,INDUSTRY,0,0
+NCT02235298,2 race measure,Excluded: no race measure of any kind,PHASE4,2015-09,100.0,OTHER,0,1
+NCT02252965,2 race measure,Excluded: no race measure of any kind,PHASE4,2014-12,532.0,INDUSTRY,0,0
+NCT02254291,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-10-02,308.0,INDUSTRY,0,0
+NCT02256189,2 race measure,Excluded: no race measure of any kind,PHASE4,2015-04,28.0,OTHER,0,1
+NCT02284893,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-09-09,461.0,INDUSTRY,0,0
+NCT02288273,2 race measure,Excluded: no race measure of any kind,PHASE4,2014-12,239.0,INDUSTRY,0,0
+NCT02294474,2 race measure,Excluded: no race measure of any kind,PHASE3,2015-01,505.0,INDUSTRY,0,0
+NCT02298192,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-11-21,420.0,INDUSTRY,0,0
+NCT02305381,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-12-01,397.0,INDUSTRY,0,0
+NCT02312063,2 race measure,Excluded: no race measure of any kind,PHASE4,2015-02,48.0,OTHER,0,0
+NCT02318693,2 race measure,Excluded: no race measure of any kind,PHASE4,2015-02-04,53.0,INDUSTRY,0,0
+NCT02320721,2 race measure,Excluded: no race measure of any kind,PHASE3,2015-01,1014.0,INDUSTRY,0,0
+NCT02324569,2 race measure,Excluded: no race measure of any kind,PHASE3,2014-12-27,240.0,INDUSTRY,0,0
+NCT02354222,2 race measure,Excluded: no race measure of any kind,PHASE3,2015-01,154.0,INDUSTRY,0,0
+NCT02354235,2 race measure,Excluded: no race measure of any kind,PHASE3,2015-01,138.0,INDUSTRY,0,0
+NCT02371759,2 race measure,Excluded: no race measure of any kind,PHASE3,2013-06,256.0,OTHER,0,0
+NCT02372630,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE4,2014-05-23,40.0,OTHER,0,0
+NCT02373865,2 race measure,Excluded: no race measure of any kind,PHASE4,2015-09,4.0,OTHER,0,0
+NCT02406443,2 race measure,Excluded: no race measure of any kind,PHASE4,2015-03,36.0,OTHER,0,0
+NCT02420262,2 race measure,Excluded: no race measure of any kind,PHASE3,2015-07-26,506.0,INDUSTRY,0,0
+NCT02451917,2 race measure,Excluded: no race measure of any kind,PHASE4,2013-12,34.0,OTHER,0,0
+NCT02453555,2 race measure,Excluded: no race measure of any kind,PHASE3,2015-05-14,275.0,INDUSTRY,0,0
+NCT02453685,2 race measure,Excluded: no race measure of any kind,PHASE4,2015-08-31,335.0,INDUSTRY,0,0
+NCT02489968,2 race measure,Excluded: no race measure of any kind,PHASE3,2015-05-12,880.0,INDUSTRY,0,0
+NCT02512068,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE3,2015-08-07,107.0,INDUSTRY,0,0
+NCT02536248,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE3,2015-08-01,20.0,OTHER,0,0
+NCT02577003,2 race measure,Excluded: no race measure of any kind,PHASE3,2015-11-09,143.0,INDUSTRY,0,0
+NCT02577016,2 race measure,Excluded: no race measure of any kind,PHASE3,2015-11-05,141.0,INDUSTRY,0,0
+NCT02589639,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE4,2015-10-28,269.0,INDUSTRY,0,0
+NCT02592421,2 race measure,Excluded: no race measure of any kind,PHASE3,2015-10-23,30.0,OTHER,0,1
+NCT02608905,2 race measure,Excluded: no race measure of any kind,PHASE4,2015-11,17.0,OTHER,0,1
+NCT02648217,2 race measure,Excluded: no race measure of any kind,PHASE3,2016-01-04,263.0,INDUSTRY,0,0
+NCT02680457,2 race measure,Excluded: no race measure of any kind,PHASE4,2013-11,12.0,OTHER,0,1
+NCT02682563,2 race measure,Excluded: no race measure of any kind,PHASE4,2016-02,44.0,OTHER,0,1
+NCT02738151,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE4,2016-05-19,929.0,INDUSTRY,0,0
+NCT02771093,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE4,2016-09-08,27.0,INDUSTRY,0,0
+NCT02911792,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE4,2016-12-20,72.0,OTHER,0,0
+NCT02912455,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE4,2017-01-05,16.0,OTHER,0,0
+NCT03014479,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE4,2017-02-18,219.0,INDUSTRY,0,0
+NCT03029351,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE4,2017-01-10,15.0,OTHER,0,0
+NCT03231709,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE4,2017-08-18,60.0,INDUSTRY,0,0
+NCT03260881,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE4,2018-09-01,38.0,OTHER,0,0
+NCT03350984,2 race measure,Excluded: no race measure of any kind,PHASE4,2017-11-02,75.0,OTHER,0,1
+NCT03717194,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE3,2019-06-01,102.0,OTHER,0,0
+NCT03968224,2 race measure,Excluded: no race measure of any kind,PHASE2;PHASE3,2018-08-04,160.0,OTHER,0,1
+NCT04090580,2 race measure,Excluded: no race measure of any kind,PHASE3,2019-10-27,88.0,OTHER,0,1
+NCT04466618,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE3,2021-04-15,23.0,OTHER,0,0
+NCT04881110,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE4,2021-02-01,60.0,OTHER,0,0
+NCT05139914,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE4,2022-05-31,4.0,OTHER,0,0
+NCT05786521,2 race measure,Excluded: no race measure of any kind,PHASE4,2023-04-01,20.0,OTHER,0,1
+NCT06533527,2 race measure,Excluded: no race measure of any kind (race declared not collected),PHASE4,2024-07-31,69.0,OTHER,0,0
+NCT01289119,3 label mapping,Excluded: race labels did not map to the six harmonized race categories,PHASE3,2010-12,506.0,INDUSTRY,0,0
+NCT01095653,4 coverage,Excluded: posted race rows covered under half of enrollment,PHASE3,2010-06,1179.0,INDUSTRY,0,0
+NCT01095666,4 coverage,Excluded: posted race rows covered under half of enrollment,PHASE3,2010-06,1484.0,INDUSTRY,0,0
+NCT01137474,4 coverage,Excluded: posted race rows covered under half of enrollment,PHASE3,2010-07,2996.0,INDUSTRY,0,0
+NCT01606007,4 coverage,Excluded: posted race rows covered under half of enrollment,PHASE3,2012-07,1282.0,INDUSTRY,0,0
+NCT01864174,4 coverage,Excluded: posted race rows covered under half of enrollment,PHASE4,2013-06-20,1736.0,INDUSTRY,0,0
+NCT02004366,4 coverage,Excluded: race rows exceeded enrollment by over 10%,PHASE4,2014-01,295.0,OTHER,0,0
+NCT02429258,4 coverage,Excluded: posted race rows covered under half of enrollment,PHASE4,2015-05,226.0,INDUSTRY,0,0
+NCT02455076,4 coverage,Excluded: race rows exceeded enrollment by over 10%,PHASE4,2015-09,150.0,OTHER,0,0
+NCT02984644,4 coverage,Excluded: posted race rows covered under half of enrollment,PHASE3,2017-09-06,30.0,OTHER,0,1
+NCT03267576,4 coverage,Excluded: no race counts in the selected scheme,PHASE4,2017-10-27,64.0,INDUSTRY,0,1
+NCT04954313,4 coverage,Excluded: posted race rows covered under half of enrollment,PHASE4,2021-09-28,786.0,OTHER,0,0
+NCT01526733,5 type 1 only,Excluded: registered only for type 1 diabetes,PHASE4,2011-12,25.0,INDUSTRY,0,0
+NCT02460978,5 type 1 only,Excluded: registered only for type 1 diabetes,PHASE3,2015-07-08,815.0,INDUSTRY,0,0
+NCT02656069,5 type 1 only,Excluded: registered only for type 1 diabetes,PHASE3,2017-03-15,80.0,INDUSTRY,0,0
+NCT02735044,5 type 1 only,Excluded: registered only for type 1 diabetes,PHASE3,2016-04-14,463.0,INDUSTRY,0,0
+NCT03260868,5 type 1 only,Excluded: registered only for type 1 diabetes,PHASE4,2017-09-19,15.0,INDUSTRY,0,0
+NCT03376789,5 type 1 only,Excluded: registered only for type 1 diabetes,PHASE3,2017-11-29,219.0,INDUSTRY,0,0
+NCT03439072,5 type 1 only,Excluded: registered only for type 1 diabetes,PHASE3,2018-01-23,81.0,INDUSTRY,0,0
+NCT03738865,5 type 1 only,Excluded: registered only for type 1 diabetes,PHASE3,2018-09-27,132.0,INDUSTRY,0,0
+NCT04848480,5 type 1 only,Excluded: registered only for type 1 diabetes,PHASE3,2021-04-30,582.0,INDUSTRY,0,0
+NCT01002339,6 included,Included in race cohort,PHASE4,2010-02,134.0,OTHER,1,0
+NCT01002547,6 included,Included in race cohort,PHASE4,2010-06-24,105.0,FED,1,0
+NCT01042977,6 included,Included in race cohort,PHASE3,2010-03,964.0,INDUSTRY,1,0
+NCT01064687,6 included,Included in race cohort,PHASE3,2010-02,978.0,INDUSTRY,1,1
+NCT01068652,6 included,Included in race cohort,PHASE4,2010-03,403.0,INDUSTRY,1,0
+NCT01075282,6 included,Included in race cohort,PHASE3,2010-02,810.0,INDUSTRY,1,1
+NCT01098539,6 included,Included in race cohort,PHASE3,2010-05,507.0,INDUSTRY,1,0
+NCT01099618,6 included,Included in race cohort,PHASE4,2010-03,48.0,OTHER,1,0
+NCT01107886,6 included,Included in race cohort,PHASE4,2010-05,18206.0,INDUSTRY,1,1
+NCT01123980,6 included,Included in race cohort,PHASE4,2010-05,521.0,INDUSTRY,1,0
+NCT01126580,6 included,Included in race cohort,PHASE3,2010-05,807.0,INDUSTRY,1,1
+NCT01128153,6 included,Included in race cohort,PHASE3,2010-06,257.0,INDUSTRY,1,0
+NCT01128894,6 included,Included in race cohort,PHASE3,2010-05,841.0,INDUSTRY,1,0
+NCT01144338,6 included,Included in race cohort,PHASE3,2010-06-18,14752.0,INDUSTRY,1,0
+NCT01147250,6 included,Included in race cohort,PHASE3,2010-06,6068.0,INDUSTRY,1,1
+NCT01159938,6 included,Included in race cohort,PHASE4,2010-10,72.0,INDUSTRY,1,0
+NCT01169779,6 included,Included in race cohort,PHASE3,2010-07,391.0,INDUSTRY,1,0
+NCT01175811,6 included,Included in race cohort,PHASE4,2011-02,402.0,INDUSTRY,1,0
+NCT01175824,6 included,Included in race cohort,PHASE4,2011-04,478.0,INDUSTRY,1,0
+NCT01181674,6 included,Included in race cohort,PHASE4,2011-01,83.0,OTHER,1,0
+NCT01181986,6 included,Included in race cohort,PHASE4,2010-08,76.0,FED,1,0
+NCT01191268,6 included,Included in race cohort,PHASE3,2010-11,884.0,INDUSTRY,1,1
+NCT01195662,6 included,Included in race cohort,PHASE3,2010-10,2245.0,INDUSTRY,1,0
+NCT01196104,6 included,Included in race cohort,PHASE3,2010-09,39.0,INDUSTRY,1,0
+NCT01215955,6 included,Included in race cohort,PHASE4,2010-12,1117.0,INDUSTRY,1,1
+NCT01232491,6 included,Included in race cohort,PHASE4,2010-10-29,611.0,INDUSTRY,1,1
+NCT01234649,6 included,Included in race cohort,PHASE3,2011-08-11,153.0,OTHER,1,1
+NCT01243424,6 included,Included in race cohort,PHASE3,2010-11-11,6103.0,INDUSTRY,1,1
+NCT01258075,6 included,Included in race cohort,PHASE4,2011-02-24,236.0,INDUSTRY,1,0
+NCT01272232,6 included,Included in race cohort,PHASE3,2011-06-01,846.0,INDUSTRY,1,1
+NCT01278160,6 included,Included in race cohort,PHASE4,2011-01,179.0,INDUSTRY,1,0
+NCT01293396,6 included,Included in race cohort,PHASE4,2010-06,20.0,OTHER,1,0
+NCT01374568,6 included,Included in race cohort,PHASE4,2010-07,6.0,OTHER,1,0
+NCT01381926,6 included,Included in race cohort,PHASE4,2011-02,14.0,OTHER,1,0
+NCT01392677,6 included,Included in race cohort,PHASE3,2011-10,311.0,INDUSTRY,1,0
+NCT01394952,6 included,Included in race cohort,PHASE3,2011-07-22,9901.0,INDUSTRY,1,1
+NCT01406717,6 included,Included in race cohort,PHASE3,2013-03-01,360.0,INDUSTRY,1,0
+NCT01421459,6 included,Included in race cohort,PHASE3,2011-09,759.0,INDUSTRY,1,1
+NCT01425359,6 included,Included in race cohort,PHASE4,2011-09,949.0,INDUSTRY,1,1
+NCT01435616,6 included,Included in race cohort,PHASE3,2011-11,1538.0,INDUSTRY,1,1
+NCT01451398,6 included,Included in race cohort,PHASE3,2011-11,353.0,INDUSTRY,1,1
+NCT01456195,6 included,Included in race cohort,PHASE3,2011-11,421.0,INDUSTRY,1,0
+NCT01468987,6 included,Included in race cohort,PHASE3,2011-12,1369.0,INDUSTRY,1,1
+NCT01472185,6 included,Included in race cohort,PHASE3,2011-11,465.0,INDUSTRY,1,1
+NCT01474538,6 included,Included in race cohort,PHASE3,2011-12,122.0,INDUSTRY,1,1
+NCT01481116,6 included,Included in race cohort,PHASE3,2012-01,2454.0,INDUSTRY,1,0
+NCT01485614,6 included,Included in race cohort,PHASE3,2012-02-10,200.0,INDUSTRY,1,1
+NCT01486966,6 included,Included in race cohort,PHASE4,2011-11,58.0,INDUSTRY,1,0
+NCT01494987,6 included,Included in race cohort,PHASE3,2012-01,431.0,INDUSTRY,1,1
+NCT01496430,6 included,Included in race cohort,PHASE3,2012-01,105.0,INDUSTRY,1,1
+NCT01517412,6 included,Included in race cohort,PHASE3,2012-02,451.0,INDUSTRY,1,1
+NCT01524705,6 included,Included in race cohort,PHASE4,2012-08,102.0,OTHER,1,0
+NCT01528254,6 included,Included in race cohort,PHASE4,2012-03-30,2004.0,INDUSTRY,1,0
+NCT01541215,6 included,Included in race cohort,PHASE3,2012-11-13,135.0,INDUSTRY,1,1
+NCT01549964,6 included,Included in race cohort,PHASE3,2012-04,916.0,INDUSTRY,1,0
+NCT01554618,6 included,Included in race cohort,PHASE3,2011-12-02,84.0,INDUSTRY,1,1
+NCT01555164,6 included,Included in race cohort,PHASE3,2012-06,442.0,INDUSTRY,1,1
+NCT01558271,6 included,Included in race cohort,PHASE3,2012-03,492.0,INDUSTRY,1,0
+NCT01582451,6 included,Included in race cohort,PHASE3,2012-05,466.0,INDUSTRY,1,1
+NCT01584232,6 included,Included in race cohort,PHASE3,2012-04,361.0,INDUSTRY,1,0
+NCT01594333,6 included,Included in race cohort,PHASE3,2013-04,4786.0,OTHER,1,0
+NCT01601704,6 included,Included in race cohort,PHASE3,2012-06,8910.0,INDUSTRY,1,1
+NCT01609582,6 included,Included in race cohort,PHASE3,2012-06,3207.0,INDUSTRY,1,1
+NCT01618214,6 included,Included in race cohort,PHASE4,2012-06,344.0,INDUSTRY,1,0
+NCT01619059,6 included,Included in race cohort,PHASE3,2012-06,315.0,INDUSTRY,1,0
+NCT01621178,6 included,Included in race cohort,PHASE3,2012-07,577.0,INDUSTRY,1,1
+NCT01624259,6 included,Included in race cohort,PHASE3,2012-06,599.0,INDUSTRY,1,1
+NCT01633177,6 included,Included in race cohort,PHASE3,2011-11,22220.0,OTHER,1,0
+NCT01644500,6 included,Included in race cohort,PHASE3,2012-07,737.0,INDUSTRY,1,0
+NCT01646320,6 included,Included in race cohort,PHASE3,2012-09,320.0,INDUSTRY,1,0
+NCT01647542,6 included,Included in race cohort,PHASE3,2012-10,393.0,INDUSTRY,1,0
+NCT01648582,6 included,Included in race cohort,PHASE3,2012-07,774.0,INDUSTRY,1,0
+NCT01652716,6 included,Included in race cohort,PHASE3,2013-01,377.0,INDUSTRY,1,1
+NCT01652729,6 included,Included in race cohort,PHASE3,2013-02,365.0,INDUSTRY,1,1
+NCT01729156,6 included,Included in race cohort,PHASE4,2013-01,36.0,OTHER,1,0
+NCT01730534,6 included,Included in race cohort,PHASE3,2013-04-25,17190.0,INDUSTRY,1,1
+NCT01733758,6 included,Included in race cohort,PHASE3,2013-02,494.0,INDUSTRY,1,0
+NCT01736124,6 included,Included in race cohort,PHASE4,2015-04-07,199.0,FED,1,0
+NCT01736865,6 included,Included in race cohort,PHASE2;PHASE3,2012-12,127.0,OTHER,1,1
+NCT01754259,6 included,Included in race cohort,PHASE3,2013-04,47.0,OTHER,1,0
+NCT01760447,6 included,Included in race cohort,PHASE3,2011-12-07,223.0,INDUSTRY,1,1
+NCT01765270,6 included,Included in race cohort,PHASE4,2013-03,12.0,OTHER,1,1
+NCT01768559,6 included,Included in race cohort,PHASE3,2013-01,894.0,INDUSTRY,1,1
+NCT01769378,6 included,Included in race cohort,PHASE3,2013-01,300.0,INDUSTRY,1,1
+NCT01773473,6 included,Included in race cohort,PHASE4,2013-01,403.0,INDUSTRY,1,0
+NCT01774968,6 included,Included in race cohort,PHASE4,2013-02,325.0,INDUSTRY,1,1
+NCT01775813,6 included,Included in race cohort,PHASE4,2011-06,104.0,OTHER,1,1
+NCT01777282,6 included,Included in race cohort,PHASE3,2013-02-23,374.0,INDUSTRY,1,0
+NCT01779362,6 included,Included in race cohort,PHASE3,2013-04,267.0,NETWORK,1,0
+NCT01779375,6 included,Included in race cohort,PHASE3,2013-06-16,91.0,NETWORK,1,0
+NCT01790438,6 included,Included in race cohort,PHASE3,2013-03,641.0,INDUSTRY,1,1
+NCT01794143,6 included,Included in race cohort,PHASE3,2013-05,7850.0,OTHER,1,0
+NCT01798706,6 included,Included in race cohort,PHASE3,2013-06,350.0,INDUSTRY,1,1
+NCT01817777,6 included,Included in race cohort,PHASE4,2013-05,31.0,INDUSTRY,1,0
+NCT01822548,6 included,Included in race cohort,PHASE3,2010-10,64.0,OTHER,1,1
+NCT01829464,6 included,Included in race cohort,PHASE3,2013-05,90.0,INDUSTRY,1,1
+NCT01829477,6 included,Included in race cohort,PHASE3,2013-04,33.0,INDUSTRY,1,1
+NCT01834274,6 included,Included in race cohort,PHASE3,2013-06,96.0,INDUSTRY,1,1
+NCT01845831,6 included,Included in race cohort,PHASE4,2013-08,292.0,OTHER,1,0
+NCT01858532,6 included,Included in race cohort,PHASE3,2013-05-17,5107.0,INDUSTRY,1,0
+NCT01859793,6 included,Included in race cohort,PHASE4,2013-06,38.0,OTHER,1,0
+NCT01890122,6 included,Included in race cohort,PHASE3,2013-09,647.0,INDUSTRY,1,1
+NCT01894568,6 included,Included in race cohort,PHASE3,2013-07,388.0,INDUSTRY,1,0
+NCT01897532,6 included,Included in race cohort,PHASE4,2013-07-10,6991.0,INDUSTRY,1,1
+NCT01919489,6 included,Included in race cohort,PHASE4,2014-03,273.0,OTHER,1,0
+NCT01959334,6 included,Included in race cohort,PHASE3,2013-09,75.0,INDUSTRY,1,0
+NCT01966978,6 included,Included in race cohort,PHASE4,2014-11,157.0,OTHER,1,0
+NCT01972724,6 included,Included in race cohort,PHASE4,2013-12-16,114.0,INDUSTRY,1,1
+NCT01986881,6 included,Included in race cohort,PHASE3,2013-11-04,8246.0,INDUSTRY,1,1
+NCT01989754,6 included,Included in race cohort,PHASE4,2014-01-16,5813.0,INDUSTRY,1,1
+NCT01991795,6 included,Included in race cohort,PHASE3,2014-02-10,19271.0,INDUSTRY,1,0
+NCT01999218,6 included,Included in race cohort,PHASE3,2013-12-16,1326.0,INDUSTRY,1,0
+NCT02019264,6 included,Included in race cohort,PHASE4,2014-01-24,14673.0,INDUSTRY,1,1
+NCT02024477,6 included,Included in race cohort,PHASE4,2013-11,42.0,OTHER,1,0
+NCT02029846,6 included,Included in race cohort,PHASE4,2013-04,2.0,OTHER,1,1
+NCT02033889,6 included,Included in race cohort,PHASE3,2013-12-13,621.0,INDUSTRY,1,0
+NCT02049814,6 included,Included in race cohort,PHASE4,2014-05-09,494.0,INDUSTRY,1,0
+NCT02058147,6 included,Included in race cohort,PHASE3,2014-02,1170.0,INDUSTRY,1,1
+NCT02058160,6 included,Included in race cohort,PHASE3,2014-01,736.0,INDUSTRY,1,1
+NCT02061969,6 included,Included in race cohort,PHASE4,2014-04-25,140.0,OTHER,1,0
+NCT02065791,6 included,Included in race cohort,PHASE3,2014-02-17,4401.0,INDUSTRY,1,1
+NCT02072096,6 included,Included in race cohort,PHASE4,2014-02,192.0,INDUSTRY,1,1
+NCT02099838,6 included,Included in race cohort,PHASE4,2012-01,98.0,OTHER,1,0
+NCT02104739,6 included,Included in race cohort,PHASE4,2014-04,21.0,OTHER,1,1
+NCT02132637,6 included,Included in race cohort,PHASE3,2014-05,68.0,INDUSTRY,1,1
+NCT02152371,6 included,Included in race cohort,PHASE3,2014-05,300.0,INDUSTRY,1,1
+NCT02182830,6 included,Included in race cohort,PHASE3,2014-07-25,166.0,INDUSTRY,1,1
+NCT02229227,6 included,Included in race cohort,PHASE3,2014-11-21,814.0,INDUSTRY,1,0
+NCT02229383,6 included,Included in race cohort,PHASE3,2014-09-06,464.0,INDUSTRY,1,0
+NCT02229396,6 included,Included in race cohort,PHASE3,2014-09-04,695.0,INDUSTRY,1,0
+NCT02240680,6 included,Included in race cohort,PHASE4,2014-09-23,302.0,INDUSTRY,1,1
+NCT02243176,6 included,Included in race cohort,PHASE4,2014-09,689.0,INDUSTRY,1,0
+NCT02251431,6 included,Included in race cohort,PHASE3,2015-11,57.0,OTHER,1,0
+NCT02273050,6 included,Included in race cohort,PHASE3,2014-12,1136.0,INDUSTRY,1,0
+NCT02290925,6 included,Included in race cohort,PHASE3,2014-05,133.0,OTHER,1,0
+NCT02299388,6 included,Included in race cohort,PHASE4,2014-10,11.0,OTHER,1,1
+NCT02302716,6 included,Included in race cohort,PHASE3,2014-12,493.0,INDUSTRY,1,0
+NCT02325466,6 included,Included in race cohort,PHASE3,2015-04,70.0,OTHER,1,1
+NCT02350478,6 included,Included in race cohort,PHASE4,2013-07,49.0,OTHER,1,0
+NCT02360774,6 included,Included in race cohort,PHASE4,2015-02,30.0,OTHER,1,1
+NCT02408120,6 included,Included in race cohort,PHASE4,2015-10,226.0,OTHER,1,0
+NCT02413398,6 included,Included in race cohort,PHASE3,2015-06-15,321.0,INDUSTRY,1,0
+NCT02419612,6 included,Included in race cohort,PHASE3,2015-08-14,444.0,INDUSTRY,1,0
+NCT02422446,6 included,Included in race cohort,PHASE3,2015-04,2.0,OTHER,1,0
+NCT02426541,6 included,Included in race cohort,PHASE4,2015-03-23,55.0,INDUSTRY,1,0
+NCT02433678,6 included,Included in race cohort,PHASE4,2015-11,52.0,OTHER,1,0
+NCT02451137,6 included,Included in race cohort,PHASE4,2015-06-16,3304.0,INDUSTRY,1,1
+NCT02465515,6 included,Included in race cohort,PHASE4,2015-07-01,9463.0,INDUSTRY,1,0
+NCT02467478,6 included,Included in race cohort,PHASE4,2015-04,31.0,OTHER,1,0
+NCT02471404,6 included,Included in race cohort,PHASE4,2015-09-21,939.0,INDUSTRY,1,0
+NCT02475070,6 included,Included in race cohort,PHASE4,2016-01,28.0,OTHER,1,0
+NCT02496221,6 included,Included in race cohort,PHASE4,2015-06-11,20.0,INDUSTRY,1,0
+NCT02501161,6 included,Included in race cohort,PHASE3,2016-01-31,1012.0,INDUSTRY,1,1
+NCT02505334,6 included,Included in race cohort,PHASE3,2015-07-21,635.0,INDUSTRY,1,0
+NCT02532855,6 included,Included in race cohort,PHASE3,2015-10-20,614.0,INDUSTRY,1,0
+NCT02540993,6 included,Included in race cohort,PHASE3,2015-09-17,5734.0,INDUSTRY,1,1
+NCT02545049,6 included,Included in race cohort,PHASE3,2015-09-17,7352.0,INDUSTRY,1,1
+NCT02547935,6 included,Included in race cohort,PHASE2;PHASE3,2015-09-21,459.0,INDUSTRY,1,1
+NCT02551874,6 included,Included in race cohort,PHASE3,2015-10-20,650.0,INDUSTRY,1,0
+NCT02556918,6 included,Included in race cohort,PHASE4,2016-01,202.0,OTHER,1,0
+NCT02558296,6 included,Included in race cohort,PHASE3,2015-10,1700.0,INDUSTRY,1,1
+NCT02561078,6 included,Included in race cohort,PHASE3,2015-10-20,420.0,INDUSTRY,1,1
+NCT02561130,6 included,Included in race cohort,PHASE4,2015-12,154.0,OTHER,1,0
+NCT02564926,6 included,Included in race cohort,PHASE4,2016-01-05,125.0,INDUSTRY,1,0
+NCT02581488,6 included,Included in race cohort,PHASE4,2015-10,102.0,INDUSTRY,1,1
+NCT02582242,6 included,Included in race cohort,PHASE4,2015-10-19,437.0,INDUSTRY,1,1
+NCT02585778,6 included,Included in race cohort,PHASE3,2015-10-23,517.0,INDUSTRY,1,1
+NCT02586155,6 included,Included in race cohort,PHASE3,2015-11,2425.0,INDUSTRY,1,0
+NCT02589626,6 included,Included in race cohort,PHASE4,2015-10-29,65.0,INDUSTRY,1,0
+NCT02597049,6 included,Included in race cohort,PHASE3,2015-11,424.0,INDUSTRY,1,1
+NCT02607306,6 included,Included in race cohort,PHASE3,2015-11-18,819.0,INDUSTRY,1,0
+NCT02607865,6 included,Included in race cohort,PHASE3,2016-02-15,1864.0,INDUSTRY,1,1
+NCT02623998,6 included,Included in race cohort,PHASE3,2016-07-09,102.0,OTHER,1,0
+NCT02630706,6 included,Included in race cohort,PHASE3,2015-12-16,506.0,INDUSTRY,1,0
+NCT02639637,6 included,Included in race cohort,PHASE4,2015-12,18.0,OTHER,1,0
+NCT02642159,6 included,Included in race cohort,PHASE4,2016-03-15,413.0,INDUSTRY,1,1
+NCT02648204,6 included,Included in race cohort,PHASE3,2016-01-06,1201.0,INDUSTRY,1,1
+NCT02681094,6 included,Included in race cohort,PHASE3,2016-02-26,905.0,INDUSTRY,1,1
+NCT02682901,6 included,Included in race cohort,PHASE4,2015-10-05,84.0,OTHER,1,1
+NCT02683746,6 included,Included in race cohort,PHASE3,2016-03-16,308.0,INDUSTRY,1,0
+NCT02692716,6 included,Included in race cohort,PHASE3,2017-01-17,3183.0,INDUSTRY,1,1
+NCT02715258,6 included,Included in race cohort,PHASE3,2016-03,210.0,INDUSTRY,1,1
+NCT02725593,6 included,Included in race cohort,PHASE3,2016-06-22,72.0,INDUSTRY,1,1
+NCT02730377,6 included,Included in race cohort,PHASE4,2016-03-28,1991.0,INDUSTRY,1,1
+NCT02738879,6 included,Included in race cohort,PHASE3,2016-05-09,746.0,INDUSTRY,1,0
+NCT02739984,6 included,Included in race cohort,PHASE3,2016-05-17,424.0,INDUSTRY,1,1
+NCT02750410,6 included,Included in race cohort,PHASE4,2016-08,159.0,INDUSTRY,1,1
+NCT02752880,6 included,Included in race cohort,PHASE2;PHASE3,2016-06,46.0,OTHER,1,0
+NCT02762578,6 included,Included in race cohort,PHASE3,2016-05-03,543.0,INDUSTRY,1,1
+NCT02765399,6 included,Included in race cohort,PHASE4,2015-02-01,23.0,OTHER,1,0
+NCT02769481,6 included,Included in race cohort,PHASE3,2016-08-15,426.0,INDUSTRY,1,1
+NCT02773368,6 included,Included in race cohort,PHASE3,2016-05-23,420.0,INDUSTRY,1,1
+NCT02787551,6 included,Included in race cohort,PHASE3,2016-07-06,514.0,INDUSTRY,1,0
+NCT02791490,6 included,Included in race cohort,PHASE3,2016-06-16,458.0,INDUSTRY,1,1
+NCT02793154,6 included,Included in race cohort,PHASE4,2016-09-26,4.0,INDUSTRY,1,0
+NCT02796170,6 included,Included in race cohort,PHASE4,2016-03,11.0,OTHER,1,0
+NCT02827708,6 included,Included in race cohort,PHASE3,2016-09-20,324.0,INDUSTRY,1,1
+NCT02836873,6 included,Included in race cohort,PHASE3,2016-09-23,312.0,INDUSTRY,1,1
+NCT02849080,6 included,Included in race cohort,PHASE3,2016-09-20,504.0,INDUSTRY,1,1
+NCT02856113,6 included,Included in race cohort,PHASE3,2016-10-14,152.0,INDUSTRY,1,1
+NCT02863328,6 included,Included in race cohort,PHASE3,2016-08-10,822.0,INDUSTRY,1,1
+NCT02863419,6 included,Included in race cohort,PHASE3,2016-08-10,711.0,INDUSTRY,1,1
+NCT02889510,6 included,Included in race cohort,PHASE3,2016-10-04,76.0,INDIV,1,0
+NCT02897349,6 included,Included in race cohort,PHASE3,2016-09-30,206.0,INDUSTRY,1,1
+NCT02906709,6 included,Included in race cohort,PHASE4,2016-10-17,184.0,INDUSTRY,1,0
+NCT02906917,6 included,Included in race cohort,PHASE3,2016-09-20,532.0,INDUSTRY,1,1
+NCT02906930,6 included,Included in race cohort,PHASE3,2016-09-20,703.0,INDUSTRY,1,1
+NCT02910089,6 included,Included in race cohort,PHASE4,2016-10-20,1400.0,INDUSTRY,1,0
+NCT02911948,6 included,Included in race cohort,PHASE3,2016-09-21,210.0,INDUSTRY,1,0
+NCT02917031,6 included,Included in race cohort,PHASE4,2017-01-10,348.0,INDUSTRY,1,1
+NCT02920918,6 included,Included in race cohort,PHASE4,2016-10,36.0,OTHER,1,0
+NCT02926937,6 included,Included in race cohort,PHASE3,2016-11-11,399.0,INDUSTRY,1,1
+NCT02926950,6 included,Included in race cohort,PHASE3,2016-11,518.0,INDUSTRY,1,1
+NCT02932475,6 included,Included in race cohort,PHASE3,2017-05-25,831.0,OTHER,1,1
+NCT02963766,6 included,Included in race cohort,PHASE3,2016-12-29,154.0,INDUSTRY,1,1
+NCT02963922,6 included,Included in race cohort,PHASE3,2017-02-06,396.0,INDUSTRY,1,1
+NCT02964247,6 included,Included in race cohort,PHASE3,2017-03-03,303.0,INDUSTRY,1,1
+NCT02964585,6 included,Included in race cohort,PHASE4,2016-11,34.0,OTHER,1,0
+NCT02973477,6 included,Included in race cohort,PHASE4,2017-01-12,45.0,OTHER,1,0
+NCT02981069,6 included,Included in race cohort,PHASE4,2017-12-15,90.0,OTHER,1,1
+NCT02981966,6 included,Included in race cohort,PHASE4,2019-05-23,32.0,OTHER,1,1
+NCT03013985,6 included,Included in race cohort,PHASE4,2017-05-17,247.0,OTHER,1,0
+NCT03015220,6 included,Included in race cohort,PHASE3,2017-01-10,458.0,INDUSTRY,1,1
+NCT03018028,6 included,Included in race cohort,PHASE3,2017-01-10,243.0,INDUSTRY,1,1
+NCT03018938,6 included,Included in race cohort,PHASE4,2017-02-06,814.0,INDUSTRY,1,0
+NCT03021187,6 included,Included in race cohort,PHASE3,2017-02-02,731.0,INDUSTRY,1,1
+NCT03061214,6 included,Included in race cohort,PHASE3,2017-08-28,868.0,INDUSTRY,1,1
+NCT03066830,6 included,Included in race cohort,PHASE3,2017-02-24,507.0,INDUSTRY,1,1
+NCT03078478,6 included,Included in race cohort,PHASE3,2017-03-13,1609.0,INDUSTRY,1,1
+NCT03086330,6 included,Included in race cohort,PHASE3,2017-03-15,302.0,INDUSTRY,1,1
+NCT03115112,6 included,Included in race cohort,PHASE3,2017-10-12,386.0,INDUSTRY,1,1
+NCT03136484,6 included,Included in race cohort,PHASE3,2017-03-15,788.0,INDUSTRY,1,1
+NCT03168295,6 included,Included in race cohort,PHASE4,2016-10,34.0,OTHER,1,1
+NCT03170518,6 included,Included in race cohort,PHASE3,2017-07-21,171.0,INDUSTRY,1,1
+NCT03172494,6 included,Included in race cohort,PHASE3,2017-05-26,720.0,INDUSTRY,1,1
+NCT03175120,6 included,Included in race cohort,PHASE3,2017-05-26,453.0,INDUSTRY,1,1
+NCT03191396,6 included,Included in race cohort,PHASE3,2017-06-27,577.0,INDUSTRY,1,1
+NCT03199053,6 included,Included in race cohort,PHASE3,2017-10-11,256.0,INDUSTRY,1,1
+NCT03211858,6 included,Included in race cohort,PHASE3,2017-08-02,597.0,INDUSTRY,1,0
+NCT03214380,6 included,Included in race cohort,PHASE3,2017-07-14,933.0,INDUSTRY,1,0
+NCT03226457,6 included,Included in race cohort,PHASE4,2017-12-11,23.0,OTHER,1,0
+NCT03242018,6 included,Included in race cohort,PHASE3,2017-08-16,277.0,INDUSTRY,1,1
+NCT03242252,6 included,Included in race cohort,PHASE3,2017-08-16,787.0,INDUSTRY,1,1
+NCT03258281,6 included,Included in race cohort,PHASE4,2018-05-01,4.0,OTHER,1,0
+NCT03259789,6 included,Included in race cohort,PHASE3,2017-11-28,351.0,INDUSTRY,1,1
+NCT03268005,6 included,Included in race cohort,PHASE3,2017-09-19,1264.0,INDUSTRY,1,1
+NCT03285594,6 included,Included in race cohort,PHASE3,2017-09-15,571.0,INDUSTRY,1,1
+NCT03315143,6 included,Included in race cohort,PHASE3,2017-12-19,10584.0,INDUSTRY,1,1
+NCT03315780,6 included,Included in race cohort,PHASE4,2017-10-28,12.0,INDUSTRY,1,0
+NCT03331289,6 included,Included in race cohort,PHASE4,2018-02-28,107.0,OTHER,1,1
+NCT03332771,6 included,Included in race cohort,PHASE3,2017-12-01,954.0,INDUSTRY,1,1
+NCT03336528,6 included,Included in race cohort,PHASE4,2018-01-02,180.0,OTHER,1,1
+NCT03338010,6 included,Included in race cohort,PHASE3,2018-03-22,536.0,INDUSTRY,1,0
+NCT03338855,6 included,Included in race cohort,PHASE4,2018-03-05,26.0,INDUSTRY,1,1
+NCT03351478,6 included,Included in race cohort,PHASE3,2017-11-27,770.0,INDUSTRY,1,1
+NCT03353350,6 included,Included in race cohort,PHASE3,2017-12-05,406.0,INDUSTRY,1,1
+NCT03371108,6 included,Included in race cohort,PHASE3,2017-10-31,567.0,INDUSTRY,1,1
+NCT03386344,6 included,Included in race cohort,PHASE3,2018-02-19,376.0,INDUSTRY,1,1
+NCT03387683,6 included,Included in race cohort,PHASE4,2018-02-28,53.0,INDUSTRY,1,0
+NCT03429543,6 included,Included in race cohort,PHASE3,2018-03-20,175.0,INDUSTRY,1,1
+NCT03430856,6 included,Included in race cohort,PHASE2;PHASE3,2017-12-26,143.0,INDUSTRY,1,0
+NCT03434119,6 included,Included in race cohort,PHASE3,2018-02-20,241.0,INDUSTRY,1,1
+NCT03436693,6 included,Included in race cohort,PHASE3,2018-02-15,308.0,INDUSTRY,1,0
+NCT03437044,6 included,Included in race cohort,PHASE4,2018-03-14,40.0,OTHER,1,0
+NCT03495102,6 included,Included in race cohort,PHASE3,2018-04-05,1842.0,INDUSTRY,1,1
+NCT03496298,6 included,Included in race cohort,PHASE3,2018-04-27,4076.0,INDUSTRY,1,0
+NCT03521934,6 included,Included in race cohort,PHASE3,2018-06-15,1222.0,INDUSTRY,1,1
+NCT03552757,6 included,Included in race cohort,PHASE3,2018-06-04,1210.0,INDUSTRY,1,1
+NCT03596450,6 included,Included in race cohort,PHASE4,2018-07-13,1278.0,INDUSTRY,1,1
+NCT03620890,6 included,Included in race cohort,PHASE4,2018-09-04,108.0,OTHER,1,1
+NCT03660553,6 included,Included in race cohort,PHASE4,2018-10-10,7.0,OTHER,1,0
+NCT03660683,6 included,Included in race cohort,PHASE4,2018-10-22,15.0,OTHER,1,0
+NCT03684642,6 included,Included in race cohort,PHASE3,2018-09-26,908.0,INDUSTRY,1,0
+NCT03687827,6 included,Included in race cohort,PHASE4,2018-10-02,498.0,INDUSTRY,1,1
+NCT03689374,6 included,Included in race cohort,PHASE3,2018-10-01,2274.0,INDUSTRY,1,1
+NCT03697109,6 included,Included in race cohort,PHASE3,2018-11-15,152.0,INDUSTRY,1,1
+NCT03713684,6 included,Included in race cohort,PHASE3,2018-11-09,370.0,INDUSTRY,1,0
+NCT03724981,6 included,Included in race cohort,PHASE4,2018-10-18,312.0,INDUSTRY,1,1
+NCT03730662,6 included,Included in race cohort,PHASE3,2018-11-20,2002.0,INDUSTRY,1,1
+NCT03737240,6 included,Included in race cohort,PHASE3,2019-01-15,145.0,OTHER,1,0
+NCT03770728,6 included,Included in race cohort,PHASE3,2019-08-01,312.0,INDUSTRY,1,0
+NCT03782259,6 included,Included in race cohort,PHASE4,2019-02-26,62.0,OTHER,1,1
+NCT03818581,6 included,Included in race cohort,PHASE4,2019-03-15,108.0,OTHER,1,1
+NCT03819153,6 included,Included in race cohort,PHASE3,2019-06-17,3533.0,INDUSTRY,1,1
+NCT03861039,6 included,Included in race cohort,PHASE3,2019-03-30,443.0,INDUSTRY,1,1
+NCT03861052,6 included,Included in race cohort,PHASE3,2019-05-07,636.0,INDUSTRY,1,0
+NCT03882970,6 included,Included in race cohort,PHASE3,2019-04-01,1444.0,INDUSTRY,1,1
+NCT03887936,6 included,Included in race cohort,PHASE4,2019-10-01,92.0,FED,1,1
+NCT03914326,6 included,Included in race cohort,PHASE3,2019-06-17,9651.0,INDUSTRY,1,1
+NCT03952143,6 included,Included in race cohort,PHASE3,2019-05-27,628.0,INDUSTRY,1,0
+NCT03954834,6 included,Included in race cohort,PHASE3,2019-06-03,478.0,INDUSTRY,1,1
+NCT03987919,6 included,Included in race cohort,PHASE3,2019-07-30,1879.0,INDUSTRY,1,1
+NCT03989232,6 included,Included in race cohort,PHASE3,2019-06-19,961.0,INDUSTRY,1,1
+NCT04017832,6 included,Included in race cohort,PHASE3,2019-07-29,1441.0,INDUSTRY,1,1
+NCT04029480,6 included,Included in race cohort,PHASE3,2019-10-08,166.0,INDUSTRY,1,1
+NCT04039503,6 included,Included in race cohort,PHASE3,2019-08-30,475.0,INDUSTRY,1,1
+NCT04071626,6 included,Included in race cohort,PHASE4,2020-03-01,9.0,OTHER,1,0
+NCT04093752,6 included,Included in race cohort,PHASE3,2019-12-09,917.0,INDUSTRY,1,0
+NCT04109547,6 included,Included in race cohort,PHASE3,2019-10-01,521.0,INDUSTRY,1,1
+NCT04126603,6 included,Included in race cohort,PHASE4,2019-08-01,10.0,OTHER,1,0
+NCT04184622,6 included,Included in race cohort,PHASE3,2019-12-04,2539.0,INDUSTRY,1,0
+NCT04189848,6 included,Included in race cohort,PHASE4,2019-12-03,104.0,INDUSTRY,1,1
+NCT04233801,6 included,Included in race cohort,PHASE3,2020-04-15,219.0,INDUSTRY,1,0
+NCT04251156,6 included,Included in race cohort,PHASE3,2020-12-08,375.0,INDUSTRY,1,1
+NCT04255433,6 included,Included in race cohort,PHASE3,2020-05-29,13299.0,INDUSTRY,1,1
+NCT04298229,6 included,Included in race cohort,PHASE3,2020-04-01,240.0,OTHER,1,0
+NCT04308590,6 included,Included in race cohort,PHASE3,2020-07-27,137.0,INDUSTRY,1,1
+NCT04429503,6 included,Included in race cohort,PHASE2;PHASE3,2020-06-29,660.0,INDUSTRY,1,1
+NCT04460326,6 included,Included in race cohort,PHASE3,2020-12-07,137.0,OTHER,1,1
+NCT04460885,6 included,Included in race cohort,PHASE3,2020-11-25,984.0,INDUSTRY,1,1
+NCT04484259,6 included,Included in race cohort,PHASE4,2021-03-31,105.0,OTHER,1,0
+NCT04531176,6 included,Included in race cohort,PHASE4,2020-09-01,74.0,OTHER,1,1
+NCT04531462,6 included,Included in race cohort,PHASE4,2020-10-05,129.0,INDUSTRY,1,1
+NCT04537923,6 included,Included in race cohort,PHASE3,2020-10-19,1428.0,INDUSTRY,1,1
+NCT04538352,6 included,Included in race cohort,PHASE4,2021-01-18,60.0,OTHER,1,1
+NCT04560998,6 included,Included in race cohort,PHASE3,2020-10-01,792.0,INDUSTRY,1,1
+NCT04588259,6 included,Included in race cohort,PHASE3,2020-10-09,331.0,INDUSTRY,1,1
+NCT04591626,6 included,Included in race cohort,PHASE3,2020-12-07,291.0,INDUSTRY,1,0
+NCT04596631,6 included,Included in race cohort,PHASE3,2020-11-02,132.0,INDUSTRY,1,1
+NCT04657003,6 included,Included in race cohort,PHASE3,2021-03-29,938.0,INDUSTRY,1,1
+NCT04657016,6 included,Included in race cohort,PHASE3,2021-03-29,579.0,INDUSTRY,1,1
+NCT04660643,6 included,Included in race cohort,PHASE3,2021-03-29,783.0,INDUSTRY,1,1
+NCT04707469,6 included,Included in race cohort,PHASE3,2021-01-15,1606.0,INDUSTRY,1,1
+NCT04741074,6 included,Included in race cohort,PHASE3,2021-07-23,15.0,OTHER,1,1
+NCT04760626,6 included,Included in race cohort,PHASE3,2021-03-01,1085.0,INDUSTRY,1,1
+NCT04770532,6 included,Included in race cohort,PHASE3,2021-03-05,526.0,INDUSTRY,1,1
+NCT04795531,6 included,Included in race cohort,PHASE3,2021-03-24,588.0,INDUSTRY,1,1
+NCT04809220,6 included,Included in race cohort,PHASE3,2021-04-13,591.0,INDUSTRY,1,0
+NCT04865770,6 included,Included in race cohort,PHASE3,2021-04-28,106.0,INDUSTRY,1,1
+NCT04880850,6 included,Included in race cohort,PHASE3,2021-05-14,582.0,INDUSTRY,1,1
+NCT04965935,6 included,Included in race cohort,PHASE3,2021-07-15,52.0,OTHER,1,0
+NCT05024032,6 included,Included in race cohort,PHASE3,2021-09-01,210.0,INDUSTRY,1,0
+NCT05035082,6 included,Included in race cohort,PHASE4,2021-09-01,1018.0,INDUSTRY,1,1
+NCT05205005,6 included,Included in race cohort,PHASE2;PHASE3,2022-05-25,24.0,FED,1,1
+NCT05259033,6 included,Included in race cohort,PHASE3,2022-04-11,683.0,INDUSTRY,1,1
+NCT05260021,6 included,Included in race cohort,PHASE3,2022-04-13,99.0,INDUSTRY,1,1
+NCT05275400,6 included,Included in race cohort,PHASE3,2022-03-08,986.0,INDUSTRY,1,1
+NCT05352815,6 included,Included in race cohort,PHASE3,2022-06-01,1291.0,INDUSTRY,1,1
+NCT05362058,6 included,Included in race cohort,PHASE3,2022-06-03,928.0,INDUSTRY,1,1
+NCT05405244,6 included,Included in race cohort,PHASE3,2017-09-19,55.0,OTHER,1,1
+NCT05413369,6 included,Included in race cohort,PHASE3,2022-07-07,582.0,INDUSTRY,1,0
+NCT05462756,6 included,Included in race cohort,PHASE3,2022-08-11,730.0,INDUSTRY,1,1
+NCT05478252,6 included,Included in race cohort,PHASE3,2022-08-03,388.0,INDUSTRY,1,1
+NCT05514535,6 included,Included in race cohort,PHASE3,2022-08-29,573.0,INDUSTRY,1,1
+NCT05552859,6 included,Included in race cohort,PHASE4,2022-12-05,62.0,INDUSTRY,1,1
+NCT05564039,6 included,Included in race cohort,PHASE4,2022-11-30,282.0,INDUSTRY,1,1
+NCT05649137,6 included,Included in race cohort,PHASE3,2023-01-04,512.0,INDUSTRY,1,1
+NCT05662332,6 included,Included in race cohort,PHASE3,2023-01-14,795.0,INDUSTRY,1,1
+NCT05691712,6 included,Included in race cohort,PHASE3,2023-02-05,257.0,INDUSTRY,1,1
+NCT05727579,6 included,Included in race cohort,PHASE4,2023-07-03,41.0,OTHER,1,0
+NCT05872620,6 included,Included in race cohort,PHASE3,2023-06-05,1613.0,INDUSTRY,1,1
+NCT05963022,6 included,Included in race cohort,PHASE3,2023-08-21,206.0,INDUSTRY,1,1
+NCT05971940,6 included,Included in race cohort,PHASE3,2023-08-09,559.0,INDUSTRY,1,1
+NCT06010004,6 included,Included in race cohort,PHASE3,2023-09-28,401.0,INDUSTRY,1,0
+NCT06340854,6 included,Included in race cohort,PHASE3,2024-04-19,412.0,INDUSTRY,1,1
